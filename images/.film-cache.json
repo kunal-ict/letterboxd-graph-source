@@ -270,6 +270,126 @@
       "runtime": 85,
       "averageRating": 2.92,
       "fetchedAt": "2026-10-19T03:53:22.832Z"
+    },
+    "https://letterboxd.com/film/dhurandhar-the-revenge/": {
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/5/4/1/5/1/1454151-dhurandhar-the-revenge-0-600-0-900-crop.jpg?v=567766a7ed",
+      "runtime": 235,
+      "averageRating": 3.46,
+      "fetchedAt": "2026-10-23T11:13:51.004Z"
+    },
+    "https://letterboxd.com/film/drishyam-the-conclusion/": {
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/5/3/1/9/3/1153193-drishyam-the-conclusion-0-600-0-900-crop.jpg?v=29c33ec8a8",
+      "runtime": 148,
+      "averageRating": 3.51,
+      "fetchedAt": "2026-10-23T11:13:51.750Z"
+    },
+    "https://letterboxd.com/film/in-the-grey-2026/": {
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/1/1/4/7/6/1011476-in-the-grey-2026-0-600-0-900-crop.jpg?v=6e94d4dabf",
+      "runtime": 97,
+      "averageRating": 2.79,
+      "fetchedAt": "2026-10-23T11:13:52.969Z"
+    },
+    "https://letterboxd.com/film/war-machine-2026/": {
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/4/9/6/7/6/1149676-war-machine-2026-0-600-0-900-crop.jpg?v=75d5b01b26",
+      "runtime": 110,
+      "averageRating": 2.67,
+      "fetchedAt": "2026-10-23T11:13:53.894Z"
+    },
+    "https://letterboxd.com/film/wake-up-dead-man/": {
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/2/9/1/1/3/729113-wake-up-dead-man-0-600-0-900-crop.jpg?v=85f3366617",
+      "runtime": 145,
+      "averageRating": 3.78,
+      "fetchedAt": "2026-10-23T11:13:54.639Z"
+    },
+    "https://letterboxd.com/film/stephen-2025/": {
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/3/5/3/1/0/1435310-stephen-2025-1-0-600-0-900-crop.jpg?v=ac058c6934",
+      "runtime": 124,
+      "averageRating": 2.78,
+      "fetchedAt": "2026-10-23T11:13:55.809Z"
+    },
+    "https://letterboxd.com/film/dead-of-winter-2025/": {
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/1/8/8/8/0/1118880-dead-of-winter-2025-0-600-0-900-crop.jpg?v=d3c7b255f5",
+      "runtime": 98,
+      "averageRating": 2.87,
+      "fetchedAt": "2026-10-23T11:13:56.442Z"
+    },
+    "https://letterboxd.com/film/the-great-flood-2025/": {
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/8/4/9/4/0/884940-the-great-flood-2025-0-600-0-900-crop.jpg?v=45b8a87664",
+      "runtime": 107,
+      "averageRating": 2.56,
+      "fetchedAt": "2026-10-23T11:13:57.139Z"
+    },
+    "https://letterboxd.com/film/doctor-strange-in-the-multiverse-of-madness/": {
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/8/5/5/1/1/385511-doctor-strange-in-the-multiverse-of-madness-0-600-0-900-crop.jpg?v=009a8981af",
+      "runtime": 126,
+      "averageRating": 2.98,
+      "fetchedAt": "2026-10-23T11:13:57.921Z"
+    },
+    "https://letterboxd.com/film/jailer-2-2026/": {
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/1/7/6/5/3/1117653-jailer-2-2026-0-600-0-900-crop.jpg?v=a29f5a504f",
+      "runtime": 163,
+      "averageRating": 3.45,
+      "fetchedAt": "2026-10-23T11:13:58.482Z"
+    },
+    "https://letterboxd.com/film/crazy-stupid-love/": {
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/5/0/5/1/15051-crazy-stupid-love--0-600-0-900-crop.jpg?v=262be4c415",
+      "runtime": 118,
+      "averageRating": 3.73,
+      "fetchedAt": "2026-10-23T11:13:59.171Z"
+    },
+    "https://letterboxd.com/film/f1/": {
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/1/7/9/7/7/817977-f1-the-movie-0-600-0-900-crop.jpg?v=f5ae2b99b9",
+      "runtime": 156,
+      "averageRating": 3.65,
+      "fetchedAt": "2026-10-23T11:13:59.779Z"
+    },
+    "https://letterboxd.com/film/avengers-endgame/": {
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/2/6/6/6/0/226660-avengers-endgame-0-600-0-900-crop.jpg?v=d4006bfd5e",
+      "runtime": 181,
+      "averageRating": 4.03,
+      "fetchedAt": "2026-10-23T11:14:00.748Z"
+    },
+    "https://letterboxd.com/film/avengers-infinity-war/": {
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/2/6/6/6/1/226661-avengers-infinity-war-0-600-0-900-crop.jpg?v=8b35f60c0c",
+      "runtime": 149,
+      "averageRating": 4.1,
+      "fetchedAt": "2026-10-23T11:14:01.238Z"
+    },
+    "https://letterboxd.com/film/12th-fail/": {
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/4/9/2/0/6/1049206-12th-fail-0-600-0-900-crop.jpg?v=93f36b0cf3",
+      "runtime": 146,
+      "averageRating": 4.16,
+      "fetchedAt": "2026-10-23T11:14:01.688Z"
+    },
+    "https://letterboxd.com/film/the-guilty-2021/": {
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/9/6/1/9/8/496198-the-guilty-0-600-0-900-crop.jpg?v=3b0d782f54",
+      "runtime": 89,
+      "averageRating": 2.97,
+      "fetchedAt": "2026-10-23T11:14:02.223Z"
+    },
+    "https://letterboxd.com/film/the-prestige/": {
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/1/4/7/51147-the-prestige-0-600-0-900-crop.jpg?v=ad7e891177",
+      "runtime": 131,
+      "averageRating": 4.31,
+      "fetchedAt": "2026-10-23T11:14:02.694Z"
+    },
+    "https://letterboxd.com/film/the-shawshank-redemption/": {
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/7l/hn/46/uz/zGINvGjdlO6TJRu9wESQvWlOKVT-0-600-0-900-crop.jpg?v=8736d1c395",
+      "runtime": 142,
+      "averageRating": 4.6,
+      "fetchedAt": "2026-10-23T11:14:03.612Z"
+    },
+    "https://letterboxd.com/film/96-2018/": {
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/7/4/3/9/8/374398-96-0-600-0-900-crop.jpg?v=14d62e85b2",
+      "runtime": 159,
+      "averageRating": 4,
+      "fetchedAt": "2026-10-23T11:14:04.033Z"
+    },
+    "https://letterboxd.com/film/hacksaw-ridge/": {
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/5/1/8/7/2/251872-hacksaw-ridge-0-600-0-900-crop.jpg?v=031e346657",
+      "runtime": 139,
+      "averageRating": 4.07,
+      "fetchedAt": "2026-10-23T11:14:05.063Z"
     }
   }
 }
