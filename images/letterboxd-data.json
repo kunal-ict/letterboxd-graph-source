@@ -6,7 +6,7 @@
     2026,
     2025
   ],
-  "generatedAt": "2026-10-31T04:36:34.681Z",
+  "generatedAt": "2026-11-01T04:56:05.843Z",
   "meta": {
     "weekStart": "sunday",
     "minYear": 2025,
@@ -18,8 +18,8 @@
     "maxCount": 3
   },
   "stats": {
-    "films": 272,
-    "daysActive": 197,
+    "films": 273,
+    "daysActive": 198,
     "streak": 21,
     "streakFilms": 34,
     "rewatches": 21,
@@ -11242,10 +11242,24 @@
       "date": "2026-10-31",
       "week": 95,
       "weekday": 6,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 1,
+      "ratingAvg": 2,
+      "films": [
+        {
+          "title": "Verity",
+          "year": "2026",
+          "rating": 2,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/kunal_unsolved/film/verity-2026/",
+          "reviewed": true,
+          "reviewUrl": "https://letterboxd.com/kunal_unsolved/film/verity-2026/",
+          "filmUid": "film:1167151",
+          "lid": "MYia",
+          "slug": "verity-2026"
+        }
+      ],
+      "level": 2,
       "inRange": true,
       "url": "https://letterboxd.com/kunal_unsolved/diary/films/for/2026/10/31/"
     },
@@ -17033,13 +17047,48 @@
         }
       ],
       "url": "https://letterboxd.com/kunal_unsolved/diary/films/for/2026/10/25/"
+    },
+    {
+      "date": "2026-10-31",
+      "count": 1,
+      "ratingAvg": 2,
+      "films": [
+        {
+          "title": "Verity",
+          "year": "2026",
+          "rating": 2,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/kunal_unsolved/film/verity-2026/",
+          "reviewed": true,
+          "reviewUrl": "https://letterboxd.com/kunal_unsolved/film/verity-2026/",
+          "filmUid": "film:1167151",
+          "lid": "MYia",
+          "slug": "verity-2026"
+        }
+      ],
+      "url": "https://letterboxd.com/kunal_unsolved/diary/films/for/2026/10/31/"
     }
   ],
   "onThisDay": {
-    "date": "2026-10-31",
+    "date": "2026-11-01",
     "films": []
   },
   "recent": [
+    {
+      "date": "2026-10-31",
+      "title": "Verity",
+      "year": "2026",
+      "rating": 2,
+      "rewatch": false,
+      "liked": false,
+      "url": "https://letterboxd.com/kunal_unsolved/film/verity-2026/",
+      "reviewed": true,
+      "reviewUrl": "https://letterboxd.com/kunal_unsolved/film/verity-2026/",
+      "filmUid": "film:1167151",
+      "lid": "MYia",
+      "slug": "verity-2026"
+    },
     {
       "date": "2026-10-25",
       "title": "The Family Plan 2",
@@ -17249,23 +17298,23 @@
       "filmUid": "film:842060",
       "lid": "zkA8",
       "slug": "jailer"
-    },
-    {
-      "date": "2026-10-08",
-      "title": "Dream Girl",
-      "year": "2019",
-      "rating": 3.5,
-      "rewatch": true,
-      "liked": false,
-      "url": "https://letterboxd.com/kunal_unsolved/film/dream-girl-2019-1/",
-      "reviewed": true,
-      "reviewUrl": "https://letterboxd.com/kunal_unsolved/film/dream-girl-2019-1/",
-      "filmUid": "film:507540",
-      "lid": "lili",
-      "slug": "dream-girl-2019-1"
     }
   ],
   "diary": [
+    {
+      "date": "2026-10-31",
+      "title": "Verity",
+      "year": "2026",
+      "rating": 2,
+      "rewatch": false,
+      "liked": false,
+      "url": "https://letterboxd.com/kunal_unsolved/film/verity-2026/",
+      "reviewed": true,
+      "reviewUrl": "https://letterboxd.com/kunal_unsolved/film/verity-2026/",
+      "filmUid": "film:1167151",
+      "lid": "MYia",
+      "slug": "verity-2026"
+    },
     {
       "date": "2026-10-25",
       "title": "The Family Plan 2",
@@ -21563,33 +21612,33 @@
     "2026": {
       "scope": "year",
       "films": null,
-      "entries": 250,
-      "distinctFilms": 240,
+      "entries": 251,
+      "distinctFilms": 241,
       "firstEntry": "2026-01-03",
-      "lastEntry": "2026-10-25",
-      "spanDays": 296,
-      "daysActive": 177,
+      "lastEntry": "2026-10-31",
+      "spanDays": 302,
+      "daysActive": 178,
       "multiFilmDays": 60,
       "rewatches": 20,
       "liked": 0,
-      "rated": 249,
+      "rated": 250,
       "releaseBreakdown": {
-        "sameYear": 50,
+        "sameYear": 51,
         "older": 200,
         "other": 0
       },
       "watchBreakdown": {
-        "firstWatches": 230,
+        "firstWatches": 231,
         "rewatches": 20
       },
       "reviewBreakdown": {
-        "reviewed": 200,
+        "reviewed": 201,
         "notReviewed": 50
       },
       "averageRating": 3.2,
-      "perDay": 0.84,
-      "perWeek": 5.9,
-      "perMonth": 25.7,
+      "perDay": 0.83,
+      "perWeek": 5.8,
+      "perMonth": 25.3,
       "streak": {
         "length": 21,
         "startDate": "2026-01-20",
@@ -21608,8 +21657,8 @@
       "perYear": [
         {
           "year": 2026,
-          "films": 250,
-          "days": 177
+          "films": 251,
+          "days": 178
         }
       ],
       "perWeekday": [
@@ -21619,7 +21668,7 @@
         31,
         42,
         38,
-        40
+        41
       ],
       "perMonthOfYear": [
         33,
@@ -21631,7 +21680,7 @@
         19,
         16,
         28,
-        23,
+        24,
         0,
         0
       ],
@@ -21674,7 +21723,7 @@
         },
         {
           "month": "2026-10",
-          "count": 23
+          "count": 24
         }
       ],
       "weekSeries": [
@@ -21940,7 +21989,7 @@
           "week": 44,
           "start": "2026-10-26",
           "end": "2026-11-01",
-          "count": 0
+          "count": 1
         },
         {
           "week": 45,
@@ -22012,7 +22061,7 @@
         },
         {
           "rating": 2,
-          "count": 21
+          "count": 22
         },
         {
           "rating": 2.5,
@@ -22067,7 +22116,7 @@
         {
           "decade": 2020,
           "label": "2020s",
-          "count": 153,
+          "count": 154,
           "averageRating": 3
         }
       ],
@@ -22258,40 +22307,54 @@
           "filmUid": "film:1251459",
           "lid": "QvCe",
           "slug": "the-family-plan-2"
+        },
+        {
+          "n": 251,
+          "kind": "latest",
+          "date": "2026-10-31",
+          "title": "Verity",
+          "year": "2026",
+          "rating": 2,
+          "url": "https://letterboxd.com/kunal_unsolved/film/verity-2026/",
+          "reviewed": true,
+          "reviewUrl": "https://letterboxd.com/kunal_unsolved/film/verity-2026/",
+          "filmUid": "film:1167151",
+          "lid": "MYia",
+          "slug": "verity-2026"
         }
       ]
     }
   },
   "allTime": {
     "scope": "all",
-    "films": 382,
-    "entries": 272,
-    "distinctFilms": 261,
+    "films": 383,
+    "entries": 273,
+    "distinctFilms": 262,
     "firstEntry": "2025-11-07",
-    "lastEntry": "2026-10-25",
-    "spanDays": 353,
-    "daysActive": 197,
+    "lastEntry": "2026-10-31",
+    "spanDays": 359,
+    "daysActive": 198,
     "multiFilmDays": 62,
     "rewatches": 21,
     "liked": 0,
-    "rated": 271,
+    "rated": 272,
     "releaseBreakdown": {
-      "sameYear": 54,
+      "sameYear": 55,
       "older": 218,
       "other": 0
     },
     "watchBreakdown": {
-      "firstWatches": 251,
+      "firstWatches": 252,
       "rewatches": 21
     },
     "reviewBreakdown": {
-      "reviewed": 212,
+      "reviewed": 213,
       "notReviewed": 60
     },
     "averageRating": 3.2,
-    "perDay": 0.77,
-    "perWeek": 5.4,
-    "perMonth": 23.5,
+    "perDay": 0.76,
+    "perWeek": 5.3,
+    "perMonth": 23.1,
     "streak": {
       "length": 21,
       "startDate": "2026-01-20",
@@ -22315,8 +22378,8 @@
       },
       {
         "year": 2026,
-        "films": 250,
-        "days": 177
+        "films": 251,
+        "days": 178
       }
     ],
     "perWeekday": [
@@ -22326,7 +22389,7 @@
       34,
       45,
       42,
-      44
+      45
     ],
     "perMonthOfYear": [
       33,
@@ -22338,7 +22401,7 @@
       19,
       16,
       28,
-      23,
+      24,
       6,
       16
     ],
@@ -22389,7 +22452,7 @@
       },
       {
         "month": "2026-10",
-        "count": 23
+        "count": 24
       }
     ],
     "weekSeries": [],
@@ -22408,7 +22471,7 @@
       },
       {
         "rating": 2,
-        "count": 22
+        "count": 23
       },
       {
         "rating": 2.5,
@@ -22463,7 +22526,7 @@
       {
         "decade": 2020,
         "label": "2020s",
-        "count": 167,
+        "count": 168,
         "averageRating": 3
       }
     ],
@@ -22666,18 +22729,18 @@
         "slug": "thunderbolts"
       },
       {
-        "n": 272,
+        "n": 273,
         "kind": "latest",
-        "date": "2026-10-25",
-        "title": "The Family Plan 2",
-        "year": "2025",
-        "rating": 3.5,
-        "url": "https://letterboxd.com/kunal_unsolved/film/the-family-plan-2/",
-        "reviewed": false,
-        "reviewUrl": null,
-        "filmUid": "film:1251459",
-        "lid": "QvCe",
-        "slug": "the-family-plan-2"
+        "date": "2026-10-31",
+        "title": "Verity",
+        "year": "2026",
+        "rating": 2,
+        "url": "https://letterboxd.com/kunal_unsolved/film/verity-2026/",
+        "reviewed": true,
+        "reviewUrl": "https://letterboxd.com/kunal_unsolved/film/verity-2026/",
+        "filmUid": "film:1167151",
+        "lid": "MYia",
+        "slug": "verity-2026"
       }
     ]
   }
