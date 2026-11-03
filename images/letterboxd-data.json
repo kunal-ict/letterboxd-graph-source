@@ -6,7 +6,7 @@
     2026,
     2025
   ],
-  "generatedAt": "2026-11-02T04:56:54.121Z",
+  "generatedAt": "2026-11-03T05:45:31.391Z",
   "meta": {
     "weekStart": "sunday",
     "minYear": 2025,
@@ -18,8 +18,8 @@
     "maxCount": 3
   },
   "stats": {
-    "films": 273,
-    "daysActive": 198,
+    "films": 275,
+    "daysActive": 200,
     "streak": 21,
     "streakFilms": 34,
     "rewatches": 21,
@@ -11267,10 +11267,24 @@
       "date": "2026-11-01",
       "week": 96,
       "weekday": 0,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 1,
+      "ratingAvg": 3,
+      "films": [
+        {
+          "title": "Project X",
+          "year": "2012",
+          "rating": 3,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/kunal_unsolved/film/project-x-2012/",
+          "reviewed": true,
+          "reviewUrl": "https://letterboxd.com/kunal_unsolved/film/project-x-2012/",
+          "filmUid": "film:8933",
+          "lid": "neO",
+          "slug": "project-x-2012"
+        }
+      ],
+      "level": 2,
       "inRange": true,
       "url": "https://letterboxd.com/kunal_unsolved/diary/films/for/2026/11/01/"
     },
@@ -11278,10 +11292,24 @@
       "date": "2026-11-02",
       "week": 96,
       "weekday": 1,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 1,
+      "ratingAvg": 2,
+      "films": [
+        {
+          "title": "Udta Teer",
+          "year": "2026",
+          "rating": 2,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/kunal_unsolved/film/udta-teer/",
+          "reviewed": true,
+          "reviewUrl": "https://letterboxd.com/kunal_unsolved/film/udta-teer/",
+          "filmUid": "film:1261836",
+          "lid": "QWBW",
+          "slug": "udta-teer"
+        }
+      ],
+      "level": 2,
       "inRange": true,
       "url": "https://letterboxd.com/kunal_unsolved/diary/films/for/2026/11/02/"
     },
@@ -17068,13 +17096,83 @@
         }
       ],
       "url": "https://letterboxd.com/kunal_unsolved/diary/films/for/2026/10/31/"
+    },
+    {
+      "date": "2026-11-01",
+      "count": 1,
+      "ratingAvg": 3,
+      "films": [
+        {
+          "title": "Project X",
+          "year": "2012",
+          "rating": 3,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/kunal_unsolved/film/project-x-2012/",
+          "reviewed": true,
+          "reviewUrl": "https://letterboxd.com/kunal_unsolved/film/project-x-2012/",
+          "filmUid": "film:8933",
+          "lid": "neO",
+          "slug": "project-x-2012"
+        }
+      ],
+      "url": "https://letterboxd.com/kunal_unsolved/diary/films/for/2026/11/01/"
+    },
+    {
+      "date": "2026-11-02",
+      "count": 1,
+      "ratingAvg": 2,
+      "films": [
+        {
+          "title": "Udta Teer",
+          "year": "2026",
+          "rating": 2,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/kunal_unsolved/film/udta-teer/",
+          "reviewed": true,
+          "reviewUrl": "https://letterboxd.com/kunal_unsolved/film/udta-teer/",
+          "filmUid": "film:1261836",
+          "lid": "QWBW",
+          "slug": "udta-teer"
+        }
+      ],
+      "url": "https://letterboxd.com/kunal_unsolved/diary/films/for/2026/11/02/"
     }
   ],
   "onThisDay": {
-    "date": "2026-11-02",
+    "date": "2026-11-03",
     "films": []
   },
   "recent": [
+    {
+      "date": "2026-11-02",
+      "title": "Udta Teer",
+      "year": "2026",
+      "rating": 2,
+      "rewatch": false,
+      "liked": false,
+      "url": "https://letterboxd.com/kunal_unsolved/film/udta-teer/",
+      "reviewed": true,
+      "reviewUrl": "https://letterboxd.com/kunal_unsolved/film/udta-teer/",
+      "filmUid": "film:1261836",
+      "lid": "QWBW",
+      "slug": "udta-teer"
+    },
+    {
+      "date": "2026-11-01",
+      "title": "Project X",
+      "year": "2012",
+      "rating": 3,
+      "rewatch": false,
+      "liked": false,
+      "url": "https://letterboxd.com/kunal_unsolved/film/project-x-2012/",
+      "reviewed": true,
+      "reviewUrl": "https://letterboxd.com/kunal_unsolved/film/project-x-2012/",
+      "filmUid": "film:8933",
+      "lid": "neO",
+      "slug": "project-x-2012"
+    },
     {
       "date": "2026-10-31",
       "title": "Verity",
@@ -17270,37 +17368,37 @@
       "filmUid": "film:541975",
       "lid": "mJVk",
       "slug": "voicemails-for-isabelle"
-    },
-    {
-      "date": "2026-10-10",
-      "title": "Eko",
-      "year": "2025",
-      "rating": 4,
-      "rewatch": false,
-      "liked": false,
-      "url": "https://letterboxd.com/kunal_unsolved/film/eko-2025/",
-      "reviewed": true,
-      "reviewUrl": "https://letterboxd.com/kunal_unsolved/film/eko-2025/",
-      "filmUid": "film:965036",
-      "lid": "EuuY",
-      "slug": "eko-2025"
-    },
-    {
-      "date": "2026-10-09",
-      "title": "Jailer",
-      "year": "2023",
-      "rating": 2.5,
-      "rewatch": false,
-      "liked": false,
-      "url": "https://letterboxd.com/kunal_unsolved/film/jailer/",
-      "reviewed": true,
-      "reviewUrl": "https://letterboxd.com/kunal_unsolved/film/jailer/",
-      "filmUid": "film:842060",
-      "lid": "zkA8",
-      "slug": "jailer"
     }
   ],
   "diary": [
+    {
+      "date": "2026-11-02",
+      "title": "Udta Teer",
+      "year": "2026",
+      "rating": 2,
+      "rewatch": false,
+      "liked": false,
+      "url": "https://letterboxd.com/kunal_unsolved/film/udta-teer/",
+      "reviewed": true,
+      "reviewUrl": "https://letterboxd.com/kunal_unsolved/film/udta-teer/",
+      "filmUid": "film:1261836",
+      "lid": "QWBW",
+      "slug": "udta-teer"
+    },
+    {
+      "date": "2026-11-01",
+      "title": "Project X",
+      "year": "2012",
+      "rating": 3,
+      "rewatch": false,
+      "liked": false,
+      "url": "https://letterboxd.com/kunal_unsolved/film/project-x-2012/",
+      "reviewed": true,
+      "reviewUrl": "https://letterboxd.com/kunal_unsolved/film/project-x-2012/",
+      "filmUid": "film:8933",
+      "lid": "neO",
+      "slug": "project-x-2012"
+    },
     {
       "date": "2026-10-31",
       "title": "Verity",
@@ -21612,27 +21710,27 @@
     "2026": {
       "scope": "year",
       "films": null,
-      "entries": 251,
-      "distinctFilms": 241,
+      "entries": 253,
+      "distinctFilms": 243,
       "firstEntry": "2026-01-03",
-      "lastEntry": "2026-10-31",
-      "spanDays": 302,
-      "daysActive": 178,
+      "lastEntry": "2026-11-02",
+      "spanDays": 304,
+      "daysActive": 180,
       "multiFilmDays": 60,
       "rewatches": 20,
       "liked": 0,
-      "rated": 250,
+      "rated": 252,
       "releaseBreakdown": {
-        "sameYear": 51,
-        "older": 200,
+        "sameYear": 52,
+        "older": 201,
         "other": 0
       },
       "watchBreakdown": {
-        "firstWatches": 231,
+        "firstWatches": 233,
         "rewatches": 20
       },
       "reviewBreakdown": {
-        "reviewed": 201,
+        "reviewed": 203,
         "notReviewed": 50
       },
       "averageRating": 3.2,
@@ -21657,13 +21755,13 @@
       "perYear": [
         {
           "year": 2026,
-          "films": 251,
-          "days": 178
+          "films": 253,
+          "days": 180
         }
       ],
       "perWeekday": [
-        40,
-        29,
+        41,
+        30,
         30,
         31,
         42,
@@ -21681,7 +21779,7 @@
         16,
         28,
         24,
-        0,
+        2,
         0
       ],
       "monthSeries": [
@@ -21724,6 +21822,10 @@
         {
           "month": "2026-10",
           "count": 24
+        },
+        {
+          "month": "2026-11",
+          "count": 2
         }
       ],
       "weekSeries": [
@@ -21989,13 +22091,13 @@
           "week": 44,
           "start": "2026-10-26",
           "end": "2026-11-01",
-          "count": 1
+          "count": 2
         },
         {
           "week": 45,
           "start": "2026-11-02",
           "end": "2026-11-08",
-          "count": 0
+          "count": 1
         },
         {
           "week": 46,
@@ -22061,7 +22163,7 @@
         },
         {
           "rating": 2,
-          "count": 22
+          "count": 23
         },
         {
           "rating": 2.5,
@@ -22069,7 +22171,7 @@
         },
         {
           "rating": 3,
-          "count": 47
+          "count": 48
         },
         {
           "rating": 3.5,
@@ -22110,13 +22212,13 @@
         {
           "decade": 2010,
           "label": "2010s",
-          "count": 69,
+          "count": 70,
           "averageRating": 3
         },
         {
           "decade": 2020,
           "label": "2020s",
-          "count": 154,
+          "count": 155,
           "averageRating": 3
         }
       ],
@@ -22309,52 +22411,52 @@
           "slug": "the-family-plan-2"
         },
         {
-          "n": 251,
+          "n": 253,
           "kind": "latest",
-          "date": "2026-10-31",
-          "title": "Verity",
+          "date": "2026-11-02",
+          "title": "Udta Teer",
           "year": "2026",
           "rating": 2,
-          "url": "https://letterboxd.com/kunal_unsolved/film/verity-2026/",
+          "url": "https://letterboxd.com/kunal_unsolved/film/udta-teer/",
           "reviewed": true,
-          "reviewUrl": "https://letterboxd.com/kunal_unsolved/film/verity-2026/",
-          "filmUid": "film:1167151",
-          "lid": "MYia",
-          "slug": "verity-2026"
+          "reviewUrl": "https://letterboxd.com/kunal_unsolved/film/udta-teer/",
+          "filmUid": "film:1261836",
+          "lid": "QWBW",
+          "slug": "udta-teer"
         }
       ]
     }
   },
   "allTime": {
     "scope": "all",
-    "films": 383,
-    "entries": 273,
-    "distinctFilms": 262,
+    "films": 385,
+    "entries": 275,
+    "distinctFilms": 264,
     "firstEntry": "2025-11-07",
-    "lastEntry": "2026-10-31",
-    "spanDays": 359,
-    "daysActive": 198,
+    "lastEntry": "2026-11-02",
+    "spanDays": 361,
+    "daysActive": 200,
     "multiFilmDays": 62,
     "rewatches": 21,
     "liked": 0,
-    "rated": 272,
+    "rated": 274,
     "releaseBreakdown": {
-      "sameYear": 55,
-      "older": 218,
+      "sameYear": 56,
+      "older": 219,
       "other": 0
     },
     "watchBreakdown": {
-      "firstWatches": 252,
+      "firstWatches": 254,
       "rewatches": 21
     },
     "reviewBreakdown": {
-      "reviewed": 213,
+      "reviewed": 215,
       "notReviewed": 60
     },
     "averageRating": 3.2,
     "perDay": 0.76,
     "perWeek": 5.3,
-    "perMonth": 23.1,
+    "perMonth": 23.2,
     "streak": {
       "length": 21,
       "startDate": "2026-01-20",
@@ -22378,13 +22480,13 @@
       },
       {
         "year": 2026,
-        "films": 251,
-        "days": 178
+        "films": 253,
+        "days": 180
       }
     ],
     "perWeekday": [
-      44,
-      33,
+      45,
+      34,
       30,
       34,
       45,
@@ -22402,7 +22504,7 @@
       16,
       28,
       24,
-      6,
+      8,
       16
     ],
     "monthSeries": [
@@ -22453,6 +22555,10 @@
       {
         "month": "2026-10",
         "count": 24
+      },
+      {
+        "month": "2026-11",
+        "count": 2
       }
     ],
     "weekSeries": [],
@@ -22471,7 +22577,7 @@
       },
       {
         "rating": 2,
-        "count": 23
+        "count": 24
       },
       {
         "rating": 2.5,
@@ -22479,7 +22585,7 @@
       },
       {
         "rating": 3,
-        "count": 52
+        "count": 53
       },
       {
         "rating": 3.5,
@@ -22520,13 +22626,13 @@
       {
         "decade": 2010,
         "label": "2010s",
-        "count": 74,
+        "count": 75,
         "averageRating": 3.5
       },
       {
         "decade": 2020,
         "label": "2020s",
-        "count": 168,
+        "count": 169,
         "averageRating": 3
       }
     ],
@@ -22729,18 +22835,18 @@
         "slug": "thunderbolts"
       },
       {
-        "n": 273,
+        "n": 275,
         "kind": "latest",
-        "date": "2026-10-31",
-        "title": "Verity",
+        "date": "2026-11-02",
+        "title": "Udta Teer",
         "year": "2026",
         "rating": 2,
-        "url": "https://letterboxd.com/kunal_unsolved/film/verity-2026/",
+        "url": "https://letterboxd.com/kunal_unsolved/film/udta-teer/",
         "reviewed": true,
-        "reviewUrl": "https://letterboxd.com/kunal_unsolved/film/verity-2026/",
-        "filmUid": "film:1167151",
-        "lid": "MYia",
-        "slug": "verity-2026"
+        "reviewUrl": "https://letterboxd.com/kunal_unsolved/film/udta-teer/",
+        "filmUid": "film:1261836",
+        "lid": "QWBW",
+        "slug": "udta-teer"
       }
     ]
   }

@@ -390,6 +390,18 @@
       "runtime": 139,
       "averageRating": 4.07,
       "fetchedAt": "2026-10-23T11:14:05.063Z"
+    },
+    "https://letterboxd.com/film/project-x-2012/": {
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/h7/gc/y5/05/cWXkRLmzKfYutvWeJXaednoGKdF-0-600-0-900-crop.jpg?v=649cf07ecb",
+      "runtime": 88,
+      "averageRating": 3.41,
+      "fetchedAt": "2026-11-03T05:45:32.114Z"
+    },
+    "https://letterboxd.com/film/udta-teer/": {
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/6/1/8/3/6/1261836-udta-teer-0-600-0-900-crop.jpg?v=7ae6bd20a7",
+      "runtime": 137,
+      "averageRating": null,
+      "fetchedAt": "2026-11-03T05:45:32.243Z"
     }
   }
 }
