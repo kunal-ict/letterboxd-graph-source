@@ -92,7 +92,7 @@
         <tspan fill="#7d8590">@kunal_unsolved</tspan>
       </a>
       <tspan dx="5" fill="#7d8590">•</tspan>
-      <tspan dx="5" fill="#e6edf3">385</tspan>
+      <tspan dx="5" fill="#e6edf3">386</tspan>
       <tspan fill="#7d8590"> Films</tspan>
       <tspan dx="5" fill="#7d8590">•</tspan>
       <tspan dx="5" fill="#e6edf3">13</tspan>
@@ -126,7 +126,7 @@
         <text x="101" y="49" font-size="8" fill="#f0f6fc" text-anchor="middle">70</text>
         <rect x="93" y="52" width="16" height="18" rx="2" fill="#26a641"/>
         <text x="101" y="84" font-size="7" fill="#e6edf3" text-anchor="middle">2010s</text>
-        <text x="127" y="27" font-size="8" fill="#f0f6fc" text-anchor="middle">155</text>
+        <text x="127" y="27" font-size="8" fill="#f0f6fc" text-anchor="middle">156</text>
         <rect x="119" y="30" width="16" height="40" rx="2" fill="#26a641"/>
         <text x="127" y="84" font-size="7" fill="#e6edf3" text-anchor="middle">2020s</text>
     </g>
@@ -134,7 +134,7 @@
 
     <!-- Movies with rating distribution tooltip -->
     <g class="movies-group" transform="translate(60, 5)">
-      <text x="0" y="15" font-size="14" font-weight="500" fill="#7d8590">253 Movies</text>
+      <text x="0" y="15" font-size="14" font-weight="500" fill="#7d8590">254 Movies</text>
       <g class="movies-tooltip" transform="translate(-30, -116)">
         <rect x="0" y="0" width="260" height="108" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
         <text x="130" y="15" font-size="11" font-weight="600" fill="#f0f6fc" text-anchor="middle">Rating Distribution (1 unrated)</text>
@@ -156,8 +156,8 @@
         <text x="142" y="30" font-size="8" fill="#f0f6fc" text-anchor="middle">48</text>
         <rect x="135" y="33" width="14" height="37" rx="2" fill="#26a641"/>
         <text x="142" y="84" font-size="7" fill="#e6edf3" text-anchor="middle">3</text>
-        <text x="166" y="36" font-size="8" fill="#f0f6fc" text-anchor="middle">40</text>
-        <rect x="159" y="39" width="14" height="31" rx="2" fill="#39d353"/>
+        <text x="166" y="35" font-size="8" fill="#f0f6fc" text-anchor="middle">41</text>
+        <rect x="159" y="38" width="14" height="32" rx="2" fill="#39d353"/>
         <text x="166" y="84" font-size="7" fill="#e6edf3" text-anchor="middle">3.5</text>
         <text x="190" y="27" font-size="8" fill="#f0f6fc" text-anchor="middle">52</text>
         <rect x="183" y="30" width="14" height="40" rx="2" fill="#39d353"/>
@@ -169,13 +169,13 @@
         <rect x="231" y="56" width="14" height="14" rx="2" fill="#39d353"/>
         <text x="238" y="84" font-size="7" fill="#e6edf3" text-anchor="middle">5</text>
         <line x1="12" y1="90" x2="248" y2="90" stroke="#30363d" stroke-width="1"/>
-        <text x="130" y="102" font-size="10" font-weight="500" fill="#7d8590" text-anchor="middle">Ø 3.2★ · 252 rated · ↻ 20</text>
+        <text x="130" y="102" font-size="10" font-weight="500" fill="#7d8590" text-anchor="middle">Ø 3.2★ · 253 rated · ↻ 20</text>
       </g>
     </g>
 
     <!-- Days Active with hover tooltip -->
     <g class="days-active-group" transform="translate(170, 5)">
-      <text x="0" y="15" font-size="14" font-weight="500" fill="#7d8590">180 Days Active</text>
+      <text x="0" y="15" font-size="14" font-weight="500" fill="#7d8590">181 Days Active</text>
       <g class="days-active-tooltip" transform="translate(-20, -115)">
         <rect x="0" y="0" width="200" height="105" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
         <text x="100" y="18" font-size="11" font-weight="600" fill="#f0f6fc" text-anchor="middle">Weekly Distribution</text>
@@ -189,8 +189,8 @@
         <text x="75" y="45" font-size="9" fill="#f0f6fc" text-anchor="middle">30</text>
         <rect x="68" y="48" width="14" height="32" rx="2" fill="#26a641"/>
         <text x="75" y="100" font-size="9" fill="#e6edf3" text-anchor="middle">T</text>
-        <text x="99" y="44" font-size="9" fill="#f0f6fc" text-anchor="middle">31</text>
-        <rect x="92" y="47" width="14" height="33" rx="2" fill="#26a641"/>
+        <text x="99" y="43" font-size="9" fill="#f0f6fc" text-anchor="middle">32</text>
+        <rect x="92" y="46" width="14" height="34" rx="2" fill="#26a641"/>
         <text x="99" y="100" font-size="9" fill="#e6edf3" text-anchor="middle">W</text>
         <text x="123" y="32" font-size="9" fill="#f0f6fc" text-anchor="middle">42</text>
         <rect x="116" y="35" width="14" height="45" rx="2" fill="#26a641"/>
@@ -2222,7 +2222,25 @@
       </a>
     </g>
     <rect class="cell" x="731" y="51" width="14" height="14" rx="2" fill="#161b22" style="animation-delay:488ms"/>
-    <rect class="cell" x="748" y="51" width="14" height="14" rx="2" fill="#161b22" style="animation-delay:499ms"/>
+    <g class="cell-group">
+      <a href="https://letterboxd.com/kunal_unsolved/diary/films/for/2026/11/04/">
+        <rect class="cell"
+          x="748"
+          y="51"
+          width="14"
+          height="14"
+          rx="2"
+          fill="#006d32" style="animation-delay:499ms"
+        />
+        <g class="tooltip-group" transform="translate(694, -13)">
+          <rect x="0" y="0" width="245" height="56" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+          <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
+            <tspan x="10" dy="22" font-weight="600">Wed, 4. Nov 2026: 1 movie watched</tspan>
+            <tspan x="10" dy="18">• Mirzapur: The Movie (2026) - 3.5★</tspan>
+          </text>
+        </g>
+      </a>
+    </g>
     <rect class="cell" x="765" y="51" width="14" height="14" rx="2" fill="#161b22" style="animation-delay:510ms"/>
     <rect class="cell" x="782" y="51" width="14" height="14" rx="2" fill="#161b22" style="animation-delay:521ms"/>
     <rect class="cell" x="799" y="51" width="14" height="14" rx="2" fill="#161b22" style="animation-delay:532ms"/>

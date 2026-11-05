@@ -402,6 +402,12 @@
       "runtime": 137,
       "averageRating": null,
       "fetchedAt": "2026-11-03T05:45:32.243Z"
+    },
+    "https://letterboxd.com/film/mirzapur-the-movie/": {
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/6/3/8/8/4/1263884-mirzapur-the-movie-0-600-0-900-crop.jpg?v=d5764939ae",
+      "runtime": 197,
+      "averageRating": 3.26,
+      "fetchedAt": "2026-11-05T05:39:55.445Z"
     }
   }
 }
