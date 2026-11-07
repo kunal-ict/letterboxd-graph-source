@@ -6,7 +6,7 @@
     2026,
     2025
   ],
-  "generatedAt": "2026-11-06T05:36:59.637Z",
+  "generatedAt": "2026-11-07T05:05:04.928Z",
   "meta": {
     "weekStart": "sunday",
     "minYear": 2025,
@@ -17176,8 +17176,23 @@
     }
   ],
   "onThisDay": {
-    "date": "2026-11-06",
-    "films": []
+    "date": "2026-11-07",
+    "films": [
+      {
+        "date": "2025-11-07",
+        "title": "Dhokha: Round D Corner",
+        "year": "2022",
+        "rating": 3.5,
+        "rewatch": false,
+        "liked": false,
+        "url": "https://letterboxd.com/kunal_unsolved/film/dhokha-round-d-corner/",
+        "reviewed": false,
+        "reviewUrl": null,
+        "filmUid": "film:906015",
+        "lid": "C0Xs",
+        "slug": "dhokha-round-d-corner"
+      }
+    ]
   },
   "recent": [
     {
