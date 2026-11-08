@@ -6,7 +6,7 @@
     2026,
     2025
   ],
-  "generatedAt": "2026-11-07T05:05:04.928Z",
+  "generatedAt": "2026-11-08T04:59:25.311Z",
   "meta": {
     "weekStart": "sunday",
     "minYear": 2025,
@@ -17176,21 +17176,21 @@
     }
   ],
   "onThisDay": {
-    "date": "2026-11-07",
+    "date": "2026-11-08",
     "films": [
       {
-        "date": "2025-11-07",
-        "title": "Dhokha: Round D Corner",
-        "year": "2022",
-        "rating": 3.5,
+        "date": "2025-11-08",
+        "title": "Fantastic Beasts and Where to Find Them",
+        "year": "2016",
+        "rating": 4,
         "rewatch": false,
         "liked": false,
-        "url": "https://letterboxd.com/kunal_unsolved/film/dhokha-round-d-corner/",
+        "url": "https://letterboxd.com/kunal_unsolved/film/fantastic-beasts-and-where-to-find-them/",
         "reviewed": false,
         "reviewUrl": null,
-        "filmUid": "film:906015",
-        "lid": "C0Xs",
-        "slug": "dhokha-round-d-corner"
+        "filmUid": "film:182910",
+        "lid": "7FPC",
+        "slug": "fantastic-beasts-and-where-to-find-them"
       }
     ]
   },
