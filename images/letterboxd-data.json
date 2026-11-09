@@ -6,7 +6,7 @@
     2026,
     2025
   ],
-  "generatedAt": "2026-11-08T04:59:25.311Z",
+  "generatedAt": "2026-11-09T05:09:04.670Z",
   "meta": {
     "weekStart": "sunday",
     "minYear": 2025,
@@ -17176,23 +17176,8 @@
     }
   ],
   "onThisDay": {
-    "date": "2026-11-08",
-    "films": [
-      {
-        "date": "2025-11-08",
-        "title": "Fantastic Beasts and Where to Find Them",
-        "year": "2016",
-        "rating": 4,
-        "rewatch": false,
-        "liked": false,
-        "url": "https://letterboxd.com/kunal_unsolved/film/fantastic-beasts-and-where-to-find-them/",
-        "reviewed": false,
-        "reviewUrl": null,
-        "filmUid": "film:182910",
-        "lid": "7FPC",
-        "slug": "fantastic-beasts-and-where-to-find-them"
-      }
-    ]
+    "date": "2026-11-09",
+    "films": []
   },
   "recent": [
     {
