@@ -6,7 +6,7 @@
     2026,
     2025
   ],
-  "generatedAt": "2026-11-09T05:09:04.670Z",
+  "generatedAt": "2026-11-10T06:25:15.841Z",
   "meta": {
     "weekStart": "sunday",
     "minYear": 2025,
@@ -17176,8 +17176,23 @@
     }
   ],
   "onThisDay": {
-    "date": "2026-11-09",
-    "films": []
+    "date": "2026-11-10",
+    "films": [
+      {
+        "date": "2025-11-10",
+        "title": "Bubblegum",
+        "year": "2023",
+        "rating": 2.5,
+        "rewatch": true,
+        "liked": false,
+        "url": "https://letterboxd.com/kunal_unsolved/film/bubblegum-2023/",
+        "reviewed": false,
+        "reviewUrl": null,
+        "filmUid": "film:1077342",
+        "lid": "JcEQ",
+        "slug": "bubblegum-2023"
+      }
+    ]
   },
   "recent": [
     {
