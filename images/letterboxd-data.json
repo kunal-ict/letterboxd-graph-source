@@ -6,7 +6,7 @@
     2026,
     2025
   ],
-  "generatedAt": "2026-11-12T06:15:22.047Z",
+  "generatedAt": "2026-11-13T05:36:31.497Z",
   "meta": {
     "weekStart": "sunday",
     "minYear": 2025,
@@ -18,8 +18,8 @@
     "maxCount": 3
   },
   "stats": {
-    "films": 276,
-    "daysActive": 201,
+    "films": 277,
+    "daysActive": 202,
     "streak": 21,
     "streakFilms": 34,
     "rewatches": 21,
@@ -11441,10 +11441,24 @@
       "date": "2026-11-13",
       "week": 97,
       "weekday": 5,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 1,
+      "ratingAvg": 2,
+      "films": [
+        {
+          "title": "Gajab Raat",
+          "year": "2026",
+          "rating": 2,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/kunal_unsolved/film/gajab-raat/",
+          "reviewed": true,
+          "reviewUrl": "https://letterboxd.com/kunal_unsolved/film/gajab-raat/",
+          "filmUid": "film:1330872",
+          "lid": "TQcM",
+          "slug": "gajab-raat"
+        }
+      ],
+      "level": 2,
       "inRange": true,
       "url": "https://letterboxd.com/kunal_unsolved/diary/films/for/2026/11/13/"
     },
@@ -17173,13 +17187,63 @@
         }
       ],
       "url": "https://letterboxd.com/kunal_unsolved/diary/films/for/2026/11/04/"
+    },
+    {
+      "date": "2026-11-13",
+      "count": 1,
+      "ratingAvg": 2,
+      "films": [
+        {
+          "title": "Gajab Raat",
+          "year": "2026",
+          "rating": 2,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/kunal_unsolved/film/gajab-raat/",
+          "reviewed": true,
+          "reviewUrl": "https://letterboxd.com/kunal_unsolved/film/gajab-raat/",
+          "filmUid": "film:1330872",
+          "lid": "TQcM",
+          "slug": "gajab-raat"
+        }
+      ],
+      "url": "https://letterboxd.com/kunal_unsolved/diary/films/for/2026/11/13/"
     }
   ],
   "onThisDay": {
-    "date": "2026-11-12",
-    "films": []
+    "date": "2026-11-13",
+    "films": [
+      {
+        "date": "2026-11-13",
+        "title": "Gajab Raat",
+        "year": "2026",
+        "rating": 2,
+        "rewatch": false,
+        "liked": false,
+        "url": "https://letterboxd.com/kunal_unsolved/film/gajab-raat/",
+        "reviewed": true,
+        "reviewUrl": "https://letterboxd.com/kunal_unsolved/film/gajab-raat/",
+        "filmUid": "film:1330872",
+        "lid": "TQcM",
+        "slug": "gajab-raat"
+      }
+    ]
   },
   "recent": [
+    {
+      "date": "2026-11-13",
+      "title": "Gajab Raat",
+      "year": "2026",
+      "rating": 2,
+      "rewatch": false,
+      "liked": false,
+      "url": "https://letterboxd.com/kunal_unsolved/film/gajab-raat/",
+      "reviewed": true,
+      "reviewUrl": "https://letterboxd.com/kunal_unsolved/film/gajab-raat/",
+      "filmUid": "film:1330872",
+      "lid": "TQcM",
+      "slug": "gajab-raat"
+    },
     {
       "date": "2026-11-04",
       "title": "Mirzapur: The Movie",
@@ -17389,23 +17453,23 @@
       "filmUid": "film:1147468",
       "lid": "M95u",
       "slug": "heart-of-the-beast-2026"
-    },
-    {
-      "date": "2026-10-11",
-      "title": "Set It Up",
-      "year": "2018",
-      "rating": 2.5,
-      "rewatch": false,
-      "liked": false,
-      "url": "https://letterboxd.com/kunal_unsolved/film/set-it-up/",
-      "reviewed": true,
-      "reviewUrl": "https://letterboxd.com/kunal_unsolved/film/set-it-up/",
-      "filmUid": "film:319550",
-      "lid": "dpik",
-      "slug": "set-it-up"
     }
   ],
   "diary": [
+    {
+      "date": "2026-11-13",
+      "title": "Gajab Raat",
+      "year": "2026",
+      "rating": 2,
+      "rewatch": false,
+      "liked": false,
+      "url": "https://letterboxd.com/kunal_unsolved/film/gajab-raat/",
+      "reviewed": true,
+      "reviewUrl": "https://letterboxd.com/kunal_unsolved/film/gajab-raat/",
+      "filmUid": "film:1330872",
+      "lid": "TQcM",
+      "slug": "gajab-raat"
+    },
     {
       "date": "2026-11-04",
       "title": "Mirzapur: The Movie",
@@ -21759,33 +21823,33 @@
     "2026": {
       "scope": "year",
       "films": null,
-      "entries": 254,
-      "distinctFilms": 244,
+      "entries": 255,
+      "distinctFilms": 245,
       "firstEntry": "2026-01-03",
-      "lastEntry": "2026-11-04",
-      "spanDays": 306,
-      "daysActive": 181,
+      "lastEntry": "2026-11-13",
+      "spanDays": 315,
+      "daysActive": 182,
       "multiFilmDays": 60,
       "rewatches": 20,
       "liked": 0,
-      "rated": 253,
+      "rated": 254,
       "releaseBreakdown": {
-        "sameYear": 53,
+        "sameYear": 54,
         "older": 201,
         "other": 0
       },
       "watchBreakdown": {
-        "firstWatches": 234,
+        "firstWatches": 235,
         "rewatches": 20
       },
       "reviewBreakdown": {
-        "reviewed": 204,
+        "reviewed": 205,
         "notReviewed": 50
       },
       "averageRating": 3.2,
-      "perDay": 0.83,
-      "perWeek": 5.8,
-      "perMonth": 25.3,
+      "perDay": 0.81,
+      "perWeek": 5.7,
+      "perMonth": 24.6,
       "streak": {
         "length": 21,
         "startDate": "2026-01-20",
@@ -21797,15 +21861,15 @@
         "count": 3
       },
       "longestGap": {
-        "days": 7,
-        "from": "2026-07-27",
-        "to": "2026-08-04"
+        "days": 8,
+        "from": "2026-11-04",
+        "to": "2026-11-13"
       },
       "perYear": [
         {
           "year": 2026,
-          "films": 254,
-          "days": 181
+          "films": 255,
+          "days": 182
         }
       ],
       "perWeekday": [
@@ -21814,7 +21878,7 @@
         30,
         32,
         42,
-        38,
+        39,
         41
       ],
       "perMonthOfYear": [
@@ -21828,7 +21892,7 @@
         16,
         28,
         24,
-        3,
+        4,
         0
       ],
       "monthSeries": [
@@ -21874,7 +21938,7 @@
         },
         {
           "month": "2026-11",
-          "count": 3
+          "count": 4
         }
       ],
       "weekSeries": [
@@ -22152,7 +22216,7 @@
           "week": 46,
           "start": "2026-11-09",
           "end": "2026-11-15",
-          "count": 0
+          "count": 1
         },
         {
           "week": 47,
@@ -22212,7 +22276,7 @@
         },
         {
           "rating": 2,
-          "count": 23
+          "count": 24
         },
         {
           "rating": 2.5,
@@ -22267,7 +22331,7 @@
         {
           "decade": 2020,
           "label": "2020s",
-          "count": 156,
+          "count": 157,
           "averageRating": 3
         }
       ],
@@ -22460,52 +22524,52 @@
           "slug": "the-family-plan-2"
         },
         {
-          "n": 254,
+          "n": 255,
           "kind": "latest",
-          "date": "2026-11-04",
-          "title": "Mirzapur: The Movie",
+          "date": "2026-11-13",
+          "title": "Gajab Raat",
           "year": "2026",
-          "rating": 3.5,
-          "url": "https://letterboxd.com/kunal_unsolved/film/mirzapur-the-movie/",
+          "rating": 2,
+          "url": "https://letterboxd.com/kunal_unsolved/film/gajab-raat/",
           "reviewed": true,
-          "reviewUrl": "https://letterboxd.com/kunal_unsolved/film/mirzapur-the-movie/",
-          "filmUid": "film:1263884",
-          "lid": "R1Wg",
-          "slug": "mirzapur-the-movie"
+          "reviewUrl": "https://letterboxd.com/kunal_unsolved/film/gajab-raat/",
+          "filmUid": "film:1330872",
+          "lid": "TQcM",
+          "slug": "gajab-raat"
         }
       ]
     }
   },
   "allTime": {
     "scope": "all",
-    "films": 386,
-    "entries": 276,
-    "distinctFilms": 265,
+    "films": 387,
+    "entries": 277,
+    "distinctFilms": 266,
     "firstEntry": "2025-11-07",
-    "lastEntry": "2026-11-04",
-    "spanDays": 363,
-    "daysActive": 201,
+    "lastEntry": "2026-11-13",
+    "spanDays": 372,
+    "daysActive": 202,
     "multiFilmDays": 62,
     "rewatches": 21,
     "liked": 0,
-    "rated": 275,
+    "rated": 276,
     "releaseBreakdown": {
-      "sameYear": 57,
+      "sameYear": 58,
       "older": 219,
       "other": 0
     },
     "watchBreakdown": {
-      "firstWatches": 255,
+      "firstWatches": 256,
       "rewatches": 21
     },
     "reviewBreakdown": {
-      "reviewed": 216,
+      "reviewed": 217,
       "notReviewed": 60
     },
     "averageRating": 3.2,
-    "perDay": 0.76,
-    "perWeek": 5.3,
-    "perMonth": 23.1,
+    "perDay": 0.74,
+    "perWeek": 5.2,
+    "perMonth": 22.7,
     "streak": {
       "length": 21,
       "startDate": "2026-01-20",
@@ -22529,8 +22593,8 @@
       },
       {
         "year": 2026,
-        "films": 254,
-        "days": 181
+        "films": 255,
+        "days": 182
       }
     ],
     "perWeekday": [
@@ -22539,7 +22603,7 @@
       30,
       35,
       45,
-      42,
+      43,
       45
     ],
     "perMonthOfYear": [
@@ -22553,7 +22617,7 @@
       16,
       28,
       24,
-      9,
+      10,
       16
     ],
     "monthSeries": [
@@ -22607,7 +22671,7 @@
       },
       {
         "month": "2026-11",
-        "count": 3
+        "count": 4
       }
     ],
     "weekSeries": [],
@@ -22626,7 +22690,7 @@
       },
       {
         "rating": 2,
-        "count": 24
+        "count": 25
       },
       {
         "rating": 2.5,
@@ -22681,7 +22745,7 @@
       {
         "decade": 2020,
         "label": "2020s",
-        "count": 170,
+        "count": 171,
         "averageRating": 3
       }
     ],
@@ -22884,18 +22948,18 @@
         "slug": "thunderbolts"
       },
       {
-        "n": 276,
+        "n": 277,
         "kind": "latest",
-        "date": "2026-11-04",
-        "title": "Mirzapur: The Movie",
+        "date": "2026-11-13",
+        "title": "Gajab Raat",
         "year": "2026",
-        "rating": 3.5,
-        "url": "https://letterboxd.com/kunal_unsolved/film/mirzapur-the-movie/",
+        "rating": 2,
+        "url": "https://letterboxd.com/kunal_unsolved/film/gajab-raat/",
         "reviewed": true,
-        "reviewUrl": "https://letterboxd.com/kunal_unsolved/film/mirzapur-the-movie/",
-        "filmUid": "film:1263884",
-        "lid": "R1Wg",
-        "slug": "mirzapur-the-movie"
+        "reviewUrl": "https://letterboxd.com/kunal_unsolved/film/gajab-raat/",
+        "filmUid": "film:1330872",
+        "lid": "TQcM",
+        "slug": "gajab-raat"
       }
     ]
   }

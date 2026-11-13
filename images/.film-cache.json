@@ -408,6 +408,12 @@
       "runtime": 197,
       "averageRating": 3.26,
       "fetchedAt": "2026-11-05T05:39:55.445Z"
+    },
+    "https://letterboxd.com/film/gajab-raat/": {
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/3/0/8/7/2/1330872-gajab-raat-0-600-0-900-crop.jpg?v=f1994a03d1",
+      "runtime": 124,
+      "averageRating": 2.75,
+      "fetchedAt": "2026-11-13T05:36:32.167Z"
     }
   }
 }
