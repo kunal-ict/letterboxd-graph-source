@@ -414,6 +414,12 @@
       "runtime": 124,
       "averageRating": 2.75,
       "fetchedAt": "2026-11-13T05:36:32.167Z"
+    },
+    "https://letterboxd.com/film/vibe-2026/": {
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/5/1/8/0/0/5/1518005-vibe-2026-0-600-0-900-crop.jpg?v=e58c868baa",
+      "runtime": 145,
+      "averageRating": 3.2,
+      "fetchedAt": "2026-11-14T05:26:44.068Z"
     }
   }
 }

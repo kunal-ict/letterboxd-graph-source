@@ -6,7 +6,7 @@
     2026,
     2025
   ],
-  "generatedAt": "2026-11-13T05:36:31.497Z",
+  "generatedAt": "2026-11-14T05:26:43.608Z",
   "meta": {
     "weekStart": "sunday",
     "minYear": 2025,
@@ -18,8 +18,8 @@
     "maxCount": 3
   },
   "stats": {
-    "films": 277,
-    "daysActive": 202,
+    "films": 279,
+    "daysActive": 203,
     "streak": 21,
     "streakFilms": 34,
     "rewatches": 21,
@@ -11430,17 +11430,6 @@
       "date": "2026-11-12",
       "week": 97,
       "weekday": 4,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
-      "inRange": true,
-      "url": "https://letterboxd.com/kunal_unsolved/diary/films/for/2026/11/12/"
-    },
-    {
-      "date": "2026-11-13",
-      "week": 97,
-      "weekday": 5,
       "count": 1,
       "ratingAvg": 2,
       "films": [
@@ -11459,6 +11448,44 @@
         }
       ],
       "level": 2,
+      "inRange": true,
+      "url": "https://letterboxd.com/kunal_unsolved/diary/films/for/2026/11/12/"
+    },
+    {
+      "date": "2026-11-13",
+      "week": 97,
+      "weekday": 5,
+      "count": 2,
+      "ratingAvg": 2,
+      "films": [
+        {
+          "title": "Pooja Meri Jaan",
+          "year": "2026",
+          "rating": 1,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/kunal_unsolved/film/pooja-meri-jaan/",
+          "reviewed": true,
+          "reviewUrl": "https://letterboxd.com/kunal_unsolved/film/pooja-meri-jaan/",
+          "filmUid": "film:1104316",
+          "lid": "KkPu",
+          "slug": "pooja-meri-jaan"
+        },
+        {
+          "title": "Vibe",
+          "year": "2026",
+          "rating": 3,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/kunal_unsolved/film/vibe-2026/",
+          "reviewed": true,
+          "reviewUrl": "https://letterboxd.com/kunal_unsolved/film/vibe-2026/",
+          "filmUid": "film:1518005",
+          "lid": "11H1w",
+          "slug": "vibe-2026"
+        }
+      ],
+      "level": 3,
       "inRange": true,
       "url": "https://letterboxd.com/kunal_unsolved/diary/films/for/2026/11/13/"
     },
@@ -17189,7 +17216,7 @@
       "url": "https://letterboxd.com/kunal_unsolved/diary/films/for/2026/11/04/"
     },
     {
-      "date": "2026-11-13",
+      "date": "2026-11-12",
       "count": 1,
       "ratingAvg": 2,
       "films": [
@@ -17207,31 +17234,78 @@
           "slug": "gajab-raat"
         }
       ],
+      "url": "https://letterboxd.com/kunal_unsolved/diary/films/for/2026/11/12/"
+    },
+    {
+      "date": "2026-11-13",
+      "count": 2,
+      "ratingAvg": 2,
+      "films": [
+        {
+          "title": "Pooja Meri Jaan",
+          "year": "2026",
+          "rating": 1,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/kunal_unsolved/film/pooja-meri-jaan/",
+          "reviewed": true,
+          "reviewUrl": "https://letterboxd.com/kunal_unsolved/film/pooja-meri-jaan/",
+          "filmUid": "film:1104316",
+          "lid": "KkPu",
+          "slug": "pooja-meri-jaan"
+        },
+        {
+          "title": "Vibe",
+          "year": "2026",
+          "rating": 3,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/kunal_unsolved/film/vibe-2026/",
+          "reviewed": true,
+          "reviewUrl": "https://letterboxd.com/kunal_unsolved/film/vibe-2026/",
+          "filmUid": "film:1518005",
+          "lid": "11H1w",
+          "slug": "vibe-2026"
+        }
+      ],
       "url": "https://letterboxd.com/kunal_unsolved/diary/films/for/2026/11/13/"
     }
   ],
   "onThisDay": {
-    "date": "2026-11-13",
-    "films": [
-      {
-        "date": "2026-11-13",
-        "title": "Gajab Raat",
-        "year": "2026",
-        "rating": 2,
-        "rewatch": false,
-        "liked": false,
-        "url": "https://letterboxd.com/kunal_unsolved/film/gajab-raat/",
-        "reviewed": true,
-        "reviewUrl": "https://letterboxd.com/kunal_unsolved/film/gajab-raat/",
-        "filmUid": "film:1330872",
-        "lid": "TQcM",
-        "slug": "gajab-raat"
-      }
-    ]
+    "date": "2026-11-14",
+    "films": []
   },
   "recent": [
     {
       "date": "2026-11-13",
+      "title": "Pooja Meri Jaan",
+      "year": "2026",
+      "rating": 1,
+      "rewatch": false,
+      "liked": false,
+      "url": "https://letterboxd.com/kunal_unsolved/film/pooja-meri-jaan/",
+      "reviewed": true,
+      "reviewUrl": "https://letterboxd.com/kunal_unsolved/film/pooja-meri-jaan/",
+      "filmUid": "film:1104316",
+      "lid": "KkPu",
+      "slug": "pooja-meri-jaan"
+    },
+    {
+      "date": "2026-11-13",
+      "title": "Vibe",
+      "year": "2026",
+      "rating": 3,
+      "rewatch": false,
+      "liked": false,
+      "url": "https://letterboxd.com/kunal_unsolved/film/vibe-2026/",
+      "reviewed": true,
+      "reviewUrl": "https://letterboxd.com/kunal_unsolved/film/vibe-2026/",
+      "filmUid": "film:1518005",
+      "lid": "11H1w",
+      "slug": "vibe-2026"
+    },
+    {
+      "date": "2026-11-12",
       "title": "Gajab Raat",
       "year": "2026",
       "rating": 2,
@@ -17425,39 +17499,39 @@
       "filmUid": "film:1025809",
       "lid": "H2B4",
       "slug": "most-dangerous-game-2020"
-    },
-    {
-      "date": "2026-10-12",
-      "title": "Get Out",
-      "year": "2017",
-      "rating": 4,
-      "rewatch": false,
-      "liked": false,
-      "url": "https://letterboxd.com/kunal_unsolved/film/get-out-2017/",
-      "reviewed": true,
-      "reviewUrl": "https://letterboxd.com/kunal_unsolved/film/get-out-2017/",
-      "filmUid": "film:353117",
-      "lid": "eOCm",
-      "slug": "get-out-2017"
-    },
-    {
-      "date": "2026-10-12",
-      "title": "Heart of the Beast",
-      "year": "2026",
-      "rating": 4,
-      "rewatch": false,
-      "liked": false,
-      "url": "https://letterboxd.com/kunal_unsolved/film/heart-of-the-beast-2026/",
-      "reviewed": true,
-      "reviewUrl": "https://letterboxd.com/kunal_unsolved/film/heart-of-the-beast-2026/",
-      "filmUid": "film:1147468",
-      "lid": "M95u",
-      "slug": "heart-of-the-beast-2026"
     }
   ],
   "diary": [
     {
       "date": "2026-11-13",
+      "title": "Pooja Meri Jaan",
+      "year": "2026",
+      "rating": 1,
+      "rewatch": false,
+      "liked": false,
+      "url": "https://letterboxd.com/kunal_unsolved/film/pooja-meri-jaan/",
+      "reviewed": true,
+      "reviewUrl": "https://letterboxd.com/kunal_unsolved/film/pooja-meri-jaan/",
+      "filmUid": "film:1104316",
+      "lid": "KkPu",
+      "slug": "pooja-meri-jaan"
+    },
+    {
+      "date": "2026-11-13",
+      "title": "Vibe",
+      "year": "2026",
+      "rating": 3,
+      "rewatch": false,
+      "liked": false,
+      "url": "https://letterboxd.com/kunal_unsolved/film/vibe-2026/",
+      "reviewed": true,
+      "reviewUrl": "https://letterboxd.com/kunal_unsolved/film/vibe-2026/",
+      "filmUid": "film:1518005",
+      "lid": "11H1w",
+      "slug": "vibe-2026"
+    },
+    {
+      "date": "2026-11-12",
       "title": "Gajab Raat",
       "year": "2026",
       "rating": 2,
@@ -21823,33 +21897,33 @@
     "2026": {
       "scope": "year",
       "films": null,
-      "entries": 255,
-      "distinctFilms": 245,
+      "entries": 257,
+      "distinctFilms": 247,
       "firstEntry": "2026-01-03",
       "lastEntry": "2026-11-13",
       "spanDays": 315,
-      "daysActive": 182,
-      "multiFilmDays": 60,
+      "daysActive": 183,
+      "multiFilmDays": 61,
       "rewatches": 20,
       "liked": 0,
-      "rated": 254,
+      "rated": 256,
       "releaseBreakdown": {
-        "sameYear": 54,
+        "sameYear": 56,
         "older": 201,
         "other": 0
       },
       "watchBreakdown": {
-        "firstWatches": 235,
+        "firstWatches": 237,
         "rewatches": 20
       },
       "reviewBreakdown": {
-        "reviewed": 205,
+        "reviewed": 207,
         "notReviewed": 50
       },
-      "averageRating": 3.2,
-      "perDay": 0.81,
+      "averageRating": 3.1,
+      "perDay": 0.82,
       "perWeek": 5.7,
-      "perMonth": 24.6,
+      "perMonth": 24.8,
       "streak": {
         "length": 21,
         "startDate": "2026-01-20",
@@ -21861,15 +21935,15 @@
         "count": 3
       },
       "longestGap": {
-        "days": 8,
-        "from": "2026-11-04",
-        "to": "2026-11-13"
+        "days": 7,
+        "from": "2026-07-27",
+        "to": "2026-08-04"
       },
       "perYear": [
         {
           "year": 2026,
-          "films": 255,
-          "days": 182
+          "films": 257,
+          "days": 183
         }
       ],
       "perWeekday": [
@@ -21877,8 +21951,8 @@
         30,
         30,
         32,
-        42,
-        39,
+        43,
+        40,
         41
       ],
       "perMonthOfYear": [
@@ -21892,7 +21966,7 @@
         16,
         28,
         24,
-        4,
+        6,
         0
       ],
       "monthSeries": [
@@ -21938,7 +22012,7 @@
         },
         {
           "month": "2026-11",
-          "count": 4
+          "count": 6
         }
       ],
       "weekSeries": [
@@ -22216,7 +22290,7 @@
           "week": 46,
           "start": "2026-11-09",
           "end": "2026-11-15",
-          "count": 1
+          "count": 3
         },
         {
           "week": 47,
@@ -22268,7 +22342,7 @@
         },
         {
           "rating": 1,
-          "count": 13
+          "count": 14
         },
         {
           "rating": 1.5,
@@ -22284,7 +22358,7 @@
         },
         {
           "rating": 3,
-          "count": 48
+          "count": 49
         },
         {
           "rating": 3.5,
@@ -22331,7 +22405,7 @@
         {
           "decade": 2020,
           "label": "2020s",
-          "count": 157,
+          "count": 159,
           "averageRating": 3
         }
       ],
@@ -22524,52 +22598,52 @@
           "slug": "the-family-plan-2"
         },
         {
-          "n": 255,
+          "n": 257,
           "kind": "latest",
           "date": "2026-11-13",
-          "title": "Gajab Raat",
+          "title": "Vibe",
           "year": "2026",
-          "rating": 2,
-          "url": "https://letterboxd.com/kunal_unsolved/film/gajab-raat/",
+          "rating": 3,
+          "url": "https://letterboxd.com/kunal_unsolved/film/vibe-2026/",
           "reviewed": true,
-          "reviewUrl": "https://letterboxd.com/kunal_unsolved/film/gajab-raat/",
-          "filmUid": "film:1330872",
-          "lid": "TQcM",
-          "slug": "gajab-raat"
+          "reviewUrl": "https://letterboxd.com/kunal_unsolved/film/vibe-2026/",
+          "filmUid": "film:1518005",
+          "lid": "11H1w",
+          "slug": "vibe-2026"
         }
       ]
     }
   },
   "allTime": {
     "scope": "all",
-    "films": 387,
-    "entries": 277,
-    "distinctFilms": 266,
+    "films": 390,
+    "entries": 279,
+    "distinctFilms": 268,
     "firstEntry": "2025-11-07",
     "lastEntry": "2026-11-13",
     "spanDays": 372,
-    "daysActive": 202,
-    "multiFilmDays": 62,
+    "daysActive": 203,
+    "multiFilmDays": 63,
     "rewatches": 21,
     "liked": 0,
-    "rated": 276,
+    "rated": 278,
     "releaseBreakdown": {
-      "sameYear": 58,
+      "sameYear": 60,
       "older": 219,
       "other": 0
     },
     "watchBreakdown": {
-      "firstWatches": 256,
+      "firstWatches": 258,
       "rewatches": 21
     },
     "reviewBreakdown": {
-      "reviewed": 217,
+      "reviewed": 219,
       "notReviewed": 60
     },
     "averageRating": 3.2,
-    "perDay": 0.74,
-    "perWeek": 5.2,
-    "perMonth": 22.7,
+    "perDay": 0.75,
+    "perWeek": 5.3,
+    "perMonth": 22.8,
     "streak": {
       "length": 21,
       "startDate": "2026-01-20",
@@ -22593,8 +22667,8 @@
       },
       {
         "year": 2026,
-        "films": 255,
-        "days": 182
+        "films": 257,
+        "days": 183
       }
     ],
     "perWeekday": [
@@ -22602,8 +22676,8 @@
       34,
       30,
       35,
-      45,
-      43,
+      46,
+      44,
       45
     ],
     "perMonthOfYear": [
@@ -22617,7 +22691,7 @@
       16,
       28,
       24,
-      10,
+      12,
       16
     ],
     "monthSeries": [
@@ -22671,7 +22745,7 @@
       },
       {
         "month": "2026-11",
-        "count": 4
+        "count": 6
       }
     ],
     "weekSeries": [],
@@ -22682,7 +22756,7 @@
       },
       {
         "rating": 1,
-        "count": 13
+        "count": 14
       },
       {
         "rating": 1.5,
@@ -22698,7 +22772,7 @@
       },
       {
         "rating": 3,
-        "count": 53
+        "count": 54
       },
       {
         "rating": 3.5,
@@ -22745,7 +22819,7 @@
       {
         "decade": 2020,
         "label": "2020s",
-        "count": 171,
+        "count": 173,
         "averageRating": 3
       }
     ],
@@ -22948,18 +23022,18 @@
         "slug": "thunderbolts"
       },
       {
-        "n": 277,
+        "n": 279,
         "kind": "latest",
         "date": "2026-11-13",
-        "title": "Gajab Raat",
+        "title": "Vibe",
         "year": "2026",
-        "rating": 2,
-        "url": "https://letterboxd.com/kunal_unsolved/film/gajab-raat/",
+        "rating": 3,
+        "url": "https://letterboxd.com/kunal_unsolved/film/vibe-2026/",
         "reviewed": true,
-        "reviewUrl": "https://letterboxd.com/kunal_unsolved/film/gajab-raat/",
-        "filmUid": "film:1330872",
-        "lid": "TQcM",
-        "slug": "gajab-raat"
+        "reviewUrl": "https://letterboxd.com/kunal_unsolved/film/vibe-2026/",
+        "filmUid": "film:1518005",
+        "lid": "11H1w",
+        "slug": "vibe-2026"
       }
     ]
   }
