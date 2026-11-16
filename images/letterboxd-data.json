@@ -6,7 +6,7 @@
     2026,
     2025
   ],
-  "generatedAt": "2026-11-15T05:24:35.852Z",
+  "generatedAt": "2026-11-16T05:22:05.324Z",
   "meta": {
     "weekStart": "sunday",
     "minYear": 2025,
@@ -18,8 +18,8 @@
     "maxCount": 3
   },
   "stats": {
-    "films": 279,
-    "daysActive": 203,
+    "films": 280,
+    "daysActive": 204,
     "streak": 21,
     "streakFilms": 34,
     "rewatches": 21,
@@ -11504,10 +11504,24 @@
       "date": "2026-11-15",
       "week": 98,
       "weekday": 0,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 1,
+      "ratingAvg": 1,
+      "films": [
+        {
+          "title": "Aasha",
+          "year": "2026",
+          "rating": 1,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/kunal_unsolved/film/aasha-2026/",
+          "reviewed": true,
+          "reviewUrl": "https://letterboxd.com/kunal_unsolved/film/aasha-2026/",
+          "filmUid": "film:1389317",
+          "lid": "Wifo",
+          "slug": "aasha-2026"
+        }
+      ],
+      "level": 2,
       "inRange": true,
       "url": "https://letterboxd.com/kunal_unsolved/diary/films/for/2026/11/15/"
     },
@@ -17269,13 +17283,63 @@
         }
       ],
       "url": "https://letterboxd.com/kunal_unsolved/diary/films/for/2026/11/13/"
+    },
+    {
+      "date": "2026-11-15",
+      "count": 1,
+      "ratingAvg": 1,
+      "films": [
+        {
+          "title": "Aasha",
+          "year": "2026",
+          "rating": 1,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/kunal_unsolved/film/aasha-2026/",
+          "reviewed": true,
+          "reviewUrl": "https://letterboxd.com/kunal_unsolved/film/aasha-2026/",
+          "filmUid": "film:1389317",
+          "lid": "Wifo",
+          "slug": "aasha-2026"
+        }
+      ],
+      "url": "https://letterboxd.com/kunal_unsolved/diary/films/for/2026/11/15/"
     }
   ],
   "onThisDay": {
-    "date": "2026-11-15",
-    "films": []
+    "date": "2026-11-16",
+    "films": [
+      {
+        "date": "2025-11-16",
+        "title": "Mr. & Mrs. Smith",
+        "year": "2005",
+        "rating": 3,
+        "rewatch": false,
+        "liked": false,
+        "url": "https://letterboxd.com/kunal_unsolved/film/mr-mrs-smith-2005/",
+        "reviewed": false,
+        "reviewUrl": null,
+        "filmUid": "film:51365",
+        "lid": "29CG",
+        "slug": "mr-mrs-smith-2005"
+      }
+    ]
   },
   "recent": [
+    {
+      "date": "2026-11-15",
+      "title": "Aasha",
+      "year": "2026",
+      "rating": 1,
+      "rewatch": false,
+      "liked": false,
+      "url": "https://letterboxd.com/kunal_unsolved/film/aasha-2026/",
+      "reviewed": true,
+      "reviewUrl": "https://letterboxd.com/kunal_unsolved/film/aasha-2026/",
+      "filmUid": "film:1389317",
+      "lid": "Wifo",
+      "slug": "aasha-2026"
+    },
     {
       "date": "2026-11-13",
       "title": "Pooja Meri Jaan",
@@ -17485,23 +17549,23 @@
       "filmUid": "film:52513",
       "lid": "2cBQ",
       "slug": "iron-man-3"
-    },
-    {
-      "date": "2026-10-14",
-      "title": "Most Dangerous Game",
-      "year": "2020",
-      "rating": 2,
-      "rewatch": false,
-      "liked": false,
-      "url": "https://letterboxd.com/kunal_unsolved/film/most-dangerous-game-2020/",
-      "reviewed": true,
-      "reviewUrl": "https://letterboxd.com/kunal_unsolved/film/most-dangerous-game-2020/",
-      "filmUid": "film:1025809",
-      "lid": "H2B4",
-      "slug": "most-dangerous-game-2020"
     }
   ],
   "diary": [
+    {
+      "date": "2026-11-15",
+      "title": "Aasha",
+      "year": "2026",
+      "rating": 1,
+      "rewatch": false,
+      "liked": false,
+      "url": "https://letterboxd.com/kunal_unsolved/film/aasha-2026/",
+      "reviewed": true,
+      "reviewUrl": "https://letterboxd.com/kunal_unsolved/film/aasha-2026/",
+      "filmUid": "film:1389317",
+      "lid": "Wifo",
+      "slug": "aasha-2026"
+    },
     {
       "date": "2026-11-13",
       "title": "Pooja Meri Jaan",
@@ -21897,31 +21961,31 @@
     "2026": {
       "scope": "year",
       "films": null,
-      "entries": 257,
-      "distinctFilms": 247,
+      "entries": 258,
+      "distinctFilms": 248,
       "firstEntry": "2026-01-03",
-      "lastEntry": "2026-11-13",
-      "spanDays": 315,
-      "daysActive": 183,
+      "lastEntry": "2026-11-15",
+      "spanDays": 317,
+      "daysActive": 184,
       "multiFilmDays": 61,
       "rewatches": 20,
       "liked": 0,
-      "rated": 256,
+      "rated": 257,
       "releaseBreakdown": {
-        "sameYear": 56,
+        "sameYear": 57,
         "older": 201,
         "other": 0
       },
       "watchBreakdown": {
-        "firstWatches": 237,
+        "firstWatches": 238,
         "rewatches": 20
       },
       "reviewBreakdown": {
-        "reviewed": 207,
+        "reviewed": 208,
         "notReviewed": 50
       },
       "averageRating": 3.1,
-      "perDay": 0.82,
+      "perDay": 0.81,
       "perWeek": 5.7,
       "perMonth": 24.8,
       "streak": {
@@ -21942,12 +22006,12 @@
       "perYear": [
         {
           "year": 2026,
-          "films": 257,
-          "days": 183
+          "films": 258,
+          "days": 184
         }
       ],
       "perWeekday": [
-        41,
+        42,
         30,
         30,
         32,
@@ -21966,7 +22030,7 @@
         16,
         28,
         24,
-        6,
+        7,
         0
       ],
       "monthSeries": [
@@ -22012,7 +22076,7 @@
         },
         {
           "month": "2026-11",
-          "count": 6
+          "count": 7
         }
       ],
       "weekSeries": [
@@ -22290,7 +22354,7 @@
           "week": 46,
           "start": "2026-11-09",
           "end": "2026-11-15",
-          "count": 3
+          "count": 4
         },
         {
           "week": 47,
@@ -22342,7 +22406,7 @@
         },
         {
           "rating": 1,
-          "count": 14
+          "count": 15
         },
         {
           "rating": 1.5,
@@ -22405,7 +22469,7 @@
         {
           "decade": 2020,
           "label": "2020s",
-          "count": 159,
+          "count": 160,
           "averageRating": 3
         }
       ],
@@ -22598,51 +22662,51 @@
           "slug": "the-family-plan-2"
         },
         {
-          "n": 257,
+          "n": 258,
           "kind": "latest",
-          "date": "2026-11-13",
-          "title": "Vibe",
+          "date": "2026-11-15",
+          "title": "Aasha",
           "year": "2026",
-          "rating": 3,
-          "url": "https://letterboxd.com/kunal_unsolved/film/vibe-2026/",
+          "rating": 1,
+          "url": "https://letterboxd.com/kunal_unsolved/film/aasha-2026/",
           "reviewed": true,
-          "reviewUrl": "https://letterboxd.com/kunal_unsolved/film/vibe-2026/",
-          "filmUid": "film:1518005",
-          "lid": "11H1w",
-          "slug": "vibe-2026"
+          "reviewUrl": "https://letterboxd.com/kunal_unsolved/film/aasha-2026/",
+          "filmUid": "film:1389317",
+          "lid": "Wifo",
+          "slug": "aasha-2026"
         }
       ]
     }
   },
   "allTime": {
     "scope": "all",
-    "films": 390,
-    "entries": 279,
-    "distinctFilms": 268,
+    "films": 391,
+    "entries": 280,
+    "distinctFilms": 269,
     "firstEntry": "2025-11-07",
-    "lastEntry": "2026-11-13",
-    "spanDays": 372,
-    "daysActive": 203,
+    "lastEntry": "2026-11-15",
+    "spanDays": 374,
+    "daysActive": 204,
     "multiFilmDays": 63,
     "rewatches": 21,
     "liked": 0,
-    "rated": 278,
+    "rated": 279,
     "releaseBreakdown": {
-      "sameYear": 60,
+      "sameYear": 61,
       "older": 219,
       "other": 0
     },
     "watchBreakdown": {
-      "firstWatches": 258,
+      "firstWatches": 259,
       "rewatches": 21
     },
     "reviewBreakdown": {
-      "reviewed": 219,
+      "reviewed": 220,
       "notReviewed": 60
     },
     "averageRating": 3.2,
     "perDay": 0.75,
-    "perWeek": 5.3,
+    "perWeek": 5.2,
     "perMonth": 22.8,
     "streak": {
       "length": 21,
@@ -22667,12 +22731,12 @@
       },
       {
         "year": 2026,
-        "films": 257,
-        "days": 183
+        "films": 258,
+        "days": 184
       }
     ],
     "perWeekday": [
-      45,
+      46,
       34,
       30,
       35,
@@ -22691,7 +22755,7 @@
       16,
       28,
       24,
-      12,
+      13,
       16
     ],
     "monthSeries": [
@@ -22745,7 +22809,7 @@
       },
       {
         "month": "2026-11",
-        "count": 6
+        "count": 7
       }
     ],
     "weekSeries": [],
@@ -22756,7 +22820,7 @@
       },
       {
         "rating": 1,
-        "count": 14
+        "count": 15
       },
       {
         "rating": 1.5,
@@ -22819,7 +22883,7 @@
       {
         "decade": 2020,
         "label": "2020s",
-        "count": 173,
+        "count": 174,
         "averageRating": 3
       }
     ],
@@ -23022,18 +23086,18 @@
         "slug": "thunderbolts"
       },
       {
-        "n": 279,
+        "n": 280,
         "kind": "latest",
-        "date": "2026-11-13",
-        "title": "Vibe",
+        "date": "2026-11-15",
+        "title": "Aasha",
         "year": "2026",
-        "rating": 3,
-        "url": "https://letterboxd.com/kunal_unsolved/film/vibe-2026/",
+        "rating": 1,
+        "url": "https://letterboxd.com/kunal_unsolved/film/aasha-2026/",
         "reviewed": true,
-        "reviewUrl": "https://letterboxd.com/kunal_unsolved/film/vibe-2026/",
-        "filmUid": "film:1518005",
-        "lid": "11H1w",
-        "slug": "vibe-2026"
+        "reviewUrl": "https://letterboxd.com/kunal_unsolved/film/aasha-2026/",
+        "filmUid": "film:1389317",
+        "lid": "Wifo",
+        "slug": "aasha-2026"
       }
     ]
   }
