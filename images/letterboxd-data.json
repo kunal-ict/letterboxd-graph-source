@@ -6,7 +6,7 @@
     2026,
     2025
   ],
-  "generatedAt": "2026-11-17T07:00:34.431Z",
+  "generatedAt": "2026-11-18T06:25:05.306Z",
   "meta": {
     "weekStart": "sunday",
     "minYear": 2025,
@@ -18,8 +18,8 @@
     "maxCount": 3
   },
   "stats": {
-    "films": 280,
-    "daysActive": 204,
+    "films": 281,
+    "daysActive": 205,
     "streak": 21,
     "streakFilms": 34,
     "rewatches": 21,
@@ -11540,10 +11540,24 @@
       "date": "2026-11-17",
       "week": 98,
       "weekday": 2,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 1,
+      "ratingAvg": 2,
+      "films": [
+        {
+          "title": "Army of Thieves",
+          "year": "2021",
+          "rating": 2,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/kunal_unsolved/film/army-of-thieves/",
+          "reviewed": true,
+          "reviewUrl": "https://letterboxd.com/kunal_unsolved/film/army-of-thieves/",
+          "filmUid": "film:714279",
+          "lid": "tYai",
+          "slug": "army-of-thieves"
+        }
+      ],
+      "level": 2,
       "inRange": true,
       "url": "https://letterboxd.com/kunal_unsolved/diary/films/for/2026/11/17/"
     },
@@ -17304,13 +17318,48 @@
         }
       ],
       "url": "https://letterboxd.com/kunal_unsolved/diary/films/for/2026/11/15/"
+    },
+    {
+      "date": "2026-11-17",
+      "count": 1,
+      "ratingAvg": 2,
+      "films": [
+        {
+          "title": "Army of Thieves",
+          "year": "2021",
+          "rating": 2,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/kunal_unsolved/film/army-of-thieves/",
+          "reviewed": true,
+          "reviewUrl": "https://letterboxd.com/kunal_unsolved/film/army-of-thieves/",
+          "filmUid": "film:714279",
+          "lid": "tYai",
+          "slug": "army-of-thieves"
+        }
+      ],
+      "url": "https://letterboxd.com/kunal_unsolved/diary/films/for/2026/11/17/"
     }
   ],
   "onThisDay": {
-    "date": "2026-11-17",
+    "date": "2026-11-18",
     "films": []
   },
   "recent": [
+    {
+      "date": "2026-11-17",
+      "title": "Army of Thieves",
+      "year": "2021",
+      "rating": 2,
+      "rewatch": false,
+      "liked": false,
+      "url": "https://letterboxd.com/kunal_unsolved/film/army-of-thieves/",
+      "reviewed": true,
+      "reviewUrl": "https://letterboxd.com/kunal_unsolved/film/army-of-thieves/",
+      "filmUid": "film:714279",
+      "lid": "tYai",
+      "slug": "army-of-thieves"
+    },
     {
       "date": "2026-11-15",
       "title": "Aasha",
@@ -17520,23 +17569,23 @@
       "filmUid": "film:15051",
       "lid": "D9A",
       "slug": "crazy-stupid-love"
-    },
-    {
-      "date": "2026-10-15",
-      "title": "Iron Man 3",
-      "year": "2013",
-      "rating": 2.5,
-      "rewatch": false,
-      "liked": false,
-      "url": "https://letterboxd.com/kunal_unsolved/film/iron-man-3/",
-      "reviewed": true,
-      "reviewUrl": "https://letterboxd.com/kunal_unsolved/film/iron-man-3/",
-      "filmUid": "film:52513",
-      "lid": "2cBQ",
-      "slug": "iron-man-3"
     }
   ],
   "diary": [
+    {
+      "date": "2026-11-17",
+      "title": "Army of Thieves",
+      "year": "2021",
+      "rating": 2,
+      "rewatch": false,
+      "liked": false,
+      "url": "https://letterboxd.com/kunal_unsolved/film/army-of-thieves/",
+      "reviewed": true,
+      "reviewUrl": "https://letterboxd.com/kunal_unsolved/film/army-of-thieves/",
+      "filmUid": "film:714279",
+      "lid": "tYai",
+      "slug": "army-of-thieves"
+    },
     {
       "date": "2026-11-15",
       "title": "Aasha",
@@ -21946,33 +21995,33 @@
     "2026": {
       "scope": "year",
       "films": null,
-      "entries": 258,
-      "distinctFilms": 248,
+      "entries": 259,
+      "distinctFilms": 249,
       "firstEntry": "2026-01-03",
-      "lastEntry": "2026-11-15",
-      "spanDays": 317,
-      "daysActive": 184,
+      "lastEntry": "2026-11-17",
+      "spanDays": 319,
+      "daysActive": 185,
       "multiFilmDays": 61,
       "rewatches": 20,
       "liked": 0,
-      "rated": 257,
+      "rated": 258,
       "releaseBreakdown": {
         "sameYear": 57,
-        "older": 201,
+        "older": 202,
         "other": 0
       },
       "watchBreakdown": {
-        "firstWatches": 238,
+        "firstWatches": 239,
         "rewatches": 20
       },
       "reviewBreakdown": {
-        "reviewed": 208,
+        "reviewed": 209,
         "notReviewed": 50
       },
       "averageRating": 3.1,
       "perDay": 0.81,
       "perWeek": 5.7,
-      "perMonth": 24.8,
+      "perMonth": 24.7,
       "streak": {
         "length": 21,
         "startDate": "2026-01-20",
@@ -21991,14 +22040,14 @@
       "perYear": [
         {
           "year": 2026,
-          "films": 258,
-          "days": 184
+          "films": 259,
+          "days": 185
         }
       ],
       "perWeekday": [
         42,
         30,
-        30,
+        31,
         32,
         43,
         40,
@@ -22015,7 +22064,7 @@
         16,
         28,
         24,
-        7,
+        8,
         0
       ],
       "monthSeries": [
@@ -22061,7 +22110,7 @@
         },
         {
           "month": "2026-11",
-          "count": 7
+          "count": 8
         }
       ],
       "weekSeries": [
@@ -22345,7 +22394,7 @@
           "week": 47,
           "start": "2026-11-16",
           "end": "2026-11-22",
-          "count": 0
+          "count": 1
         },
         {
           "week": 48,
@@ -22399,7 +22448,7 @@
         },
         {
           "rating": 2,
-          "count": 24
+          "count": 25
         },
         {
           "rating": 2.5,
@@ -22454,7 +22503,7 @@
         {
           "decade": 2020,
           "label": "2020s",
-          "count": 160,
+          "count": 161,
           "averageRating": 3
         }
       ],
@@ -22647,52 +22696,52 @@
           "slug": "the-family-plan-2"
         },
         {
-          "n": 258,
+          "n": 259,
           "kind": "latest",
-          "date": "2026-11-15",
-          "title": "Aasha",
-          "year": "2026",
-          "rating": 1,
-          "url": "https://letterboxd.com/kunal_unsolved/film/aasha-2026/",
+          "date": "2026-11-17",
+          "title": "Army of Thieves",
+          "year": "2021",
+          "rating": 2,
+          "url": "https://letterboxd.com/kunal_unsolved/film/army-of-thieves/",
           "reviewed": true,
-          "reviewUrl": "https://letterboxd.com/kunal_unsolved/film/aasha-2026/",
-          "filmUid": "film:1389317",
-          "lid": "Wifo",
-          "slug": "aasha-2026"
+          "reviewUrl": "https://letterboxd.com/kunal_unsolved/film/army-of-thieves/",
+          "filmUid": "film:714279",
+          "lid": "tYai",
+          "slug": "army-of-thieves"
         }
       ]
     }
   },
   "allTime": {
     "scope": "all",
-    "films": 391,
-    "entries": 280,
-    "distinctFilms": 269,
+    "films": 392,
+    "entries": 281,
+    "distinctFilms": 270,
     "firstEntry": "2025-11-07",
-    "lastEntry": "2026-11-15",
-    "spanDays": 374,
-    "daysActive": 204,
+    "lastEntry": "2026-11-17",
+    "spanDays": 376,
+    "daysActive": 205,
     "multiFilmDays": 63,
     "rewatches": 21,
     "liked": 0,
-    "rated": 279,
+    "rated": 280,
     "releaseBreakdown": {
       "sameYear": 61,
-      "older": 219,
+      "older": 220,
       "other": 0
     },
     "watchBreakdown": {
-      "firstWatches": 259,
+      "firstWatches": 260,
       "rewatches": 21
     },
     "reviewBreakdown": {
-      "reviewed": 220,
+      "reviewed": 221,
       "notReviewed": 60
     },
     "averageRating": 3.2,
     "perDay": 0.75,
     "perWeek": 5.2,
-    "perMonth": 22.8,
+    "perMonth": 22.7,
     "streak": {
       "length": 21,
       "startDate": "2026-01-20",
@@ -22716,14 +22765,14 @@
       },
       {
         "year": 2026,
-        "films": 258,
-        "days": 184
+        "films": 259,
+        "days": 185
       }
     ],
     "perWeekday": [
       46,
       34,
-      30,
+      31,
       35,
       46,
       44,
@@ -22740,7 +22789,7 @@
       16,
       28,
       24,
-      13,
+      14,
       16
     ],
     "monthSeries": [
@@ -22794,7 +22843,7 @@
       },
       {
         "month": "2026-11",
-        "count": 7
+        "count": 8
       }
     ],
     "weekSeries": [],
@@ -22813,7 +22862,7 @@
       },
       {
         "rating": 2,
-        "count": 25
+        "count": 26
       },
       {
         "rating": 2.5,
@@ -22868,7 +22917,7 @@
       {
         "decade": 2020,
         "label": "2020s",
-        "count": 174,
+        "count": 175,
         "averageRating": 3
       }
     ],
@@ -23071,18 +23120,18 @@
         "slug": "thunderbolts"
       },
       {
-        "n": 280,
+        "n": 281,
         "kind": "latest",
-        "date": "2026-11-15",
-        "title": "Aasha",
-        "year": "2026",
-        "rating": 1,
-        "url": "https://letterboxd.com/kunal_unsolved/film/aasha-2026/",
+        "date": "2026-11-17",
+        "title": "Army of Thieves",
+        "year": "2021",
+        "rating": 2,
+        "url": "https://letterboxd.com/kunal_unsolved/film/army-of-thieves/",
         "reviewed": true,
-        "reviewUrl": "https://letterboxd.com/kunal_unsolved/film/aasha-2026/",
-        "filmUid": "film:1389317",
-        "lid": "Wifo",
-        "slug": "aasha-2026"
+        "reviewUrl": "https://letterboxd.com/kunal_unsolved/film/army-of-thieves/",
+        "filmUid": "film:714279",
+        "lid": "tYai",
+        "slug": "army-of-thieves"
       }
     ]
   }
