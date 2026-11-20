@@ -6,7 +6,7 @@
     2026,
     2025
   ],
-  "generatedAt": "2026-11-19T06:27:53.191Z",
+  "generatedAt": "2026-11-20T06:12:52.016Z",
   "meta": {
     "weekStart": "sunday",
     "minYear": 2025,
@@ -18,8 +18,8 @@
     "maxCount": 3
   },
   "stats": {
-    "films": 281,
-    "daysActive": 205,
+    "films": 282,
+    "daysActive": 206,
     "streak": 21,
     "streakFilms": 34,
     "rewatches": 21,
@@ -11576,10 +11576,24 @@
       "date": "2026-11-19",
       "week": 98,
       "weekday": 4,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 1,
+      "ratingAvg": 2.5,
+      "films": [
+        {
+          "title": "X-Men",
+          "year": "2000",
+          "rating": 2.5,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/kunal_unsolved/film/x-men/",
+          "reviewed": true,
+          "reviewUrl": "https://letterboxd.com/kunal_unsolved/film/x-men/",
+          "filmUid": "film:27723",
+          "lid": "1a7s",
+          "slug": "x-men"
+        }
+      ],
+      "level": 2,
       "inRange": true,
       "url": "https://letterboxd.com/kunal_unsolved/diary/films/for/2026/11/19/"
     },
@@ -17339,13 +17353,48 @@
         }
       ],
       "url": "https://letterboxd.com/kunal_unsolved/diary/films/for/2026/11/17/"
+    },
+    {
+      "date": "2026-11-19",
+      "count": 1,
+      "ratingAvg": 2.5,
+      "films": [
+        {
+          "title": "X-Men",
+          "year": "2000",
+          "rating": 2.5,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/kunal_unsolved/film/x-men/",
+          "reviewed": true,
+          "reviewUrl": "https://letterboxd.com/kunal_unsolved/film/x-men/",
+          "filmUid": "film:27723",
+          "lid": "1a7s",
+          "slug": "x-men"
+        }
+      ],
+      "url": "https://letterboxd.com/kunal_unsolved/diary/films/for/2026/11/19/"
     }
   ],
   "onThisDay": {
-    "date": "2026-11-19",
+    "date": "2026-11-20",
     "films": []
   },
   "recent": [
+    {
+      "date": "2026-11-19",
+      "title": "X-Men",
+      "year": "2000",
+      "rating": 2.5,
+      "rewatch": false,
+      "liked": false,
+      "url": "https://letterboxd.com/kunal_unsolved/film/x-men/",
+      "reviewed": true,
+      "reviewUrl": "https://letterboxd.com/kunal_unsolved/film/x-men/",
+      "filmUid": "film:27723",
+      "lid": "1a7s",
+      "slug": "x-men"
+    },
     {
       "date": "2026-11-17",
       "title": "Army of Thieves",
@@ -17555,23 +17604,23 @@
       "filmUid": "film:1435145",
       "lid": "Ydt0",
       "slug": "masterplan-2026"
-    },
-    {
-      "date": "2026-10-17",
-      "title": "Crazy, Stupid, Love.",
-      "year": "2011",
-      "rating": 4,
-      "rewatch": false,
-      "liked": false,
-      "url": "https://letterboxd.com/kunal_unsolved/film/crazy-stupid-love/",
-      "reviewed": true,
-      "reviewUrl": "https://letterboxd.com/kunal_unsolved/film/crazy-stupid-love/",
-      "filmUid": "film:15051",
-      "lid": "D9A",
-      "slug": "crazy-stupid-love"
     }
   ],
   "diary": [
+    {
+      "date": "2026-11-19",
+      "title": "X-Men",
+      "year": "2000",
+      "rating": 2.5,
+      "rewatch": false,
+      "liked": false,
+      "url": "https://letterboxd.com/kunal_unsolved/film/x-men/",
+      "reviewed": true,
+      "reviewUrl": "https://letterboxd.com/kunal_unsolved/film/x-men/",
+      "filmUid": "film:27723",
+      "lid": "1a7s",
+      "slug": "x-men"
+    },
     {
       "date": "2026-11-17",
       "title": "Army of Thieves",
@@ -21995,27 +22044,27 @@
     "2026": {
       "scope": "year",
       "films": null,
-      "entries": 259,
-      "distinctFilms": 249,
+      "entries": 260,
+      "distinctFilms": 250,
       "firstEntry": "2026-01-03",
-      "lastEntry": "2026-11-17",
-      "spanDays": 319,
-      "daysActive": 185,
+      "lastEntry": "2026-11-19",
+      "spanDays": 321,
+      "daysActive": 186,
       "multiFilmDays": 61,
       "rewatches": 20,
       "liked": 0,
-      "rated": 258,
+      "rated": 259,
       "releaseBreakdown": {
         "sameYear": 57,
-        "older": 202,
+        "older": 203,
         "other": 0
       },
       "watchBreakdown": {
-        "firstWatches": 239,
+        "firstWatches": 240,
         "rewatches": 20
       },
       "reviewBreakdown": {
-        "reviewed": 209,
+        "reviewed": 210,
         "notReviewed": 50
       },
       "averageRating": 3.1,
@@ -22040,8 +22089,8 @@
       "perYear": [
         {
           "year": 2026,
-          "films": 259,
-          "days": 185
+          "films": 260,
+          "days": 186
         }
       ],
       "perWeekday": [
@@ -22049,7 +22098,7 @@
         30,
         31,
         32,
-        43,
+        44,
         40,
         41
       ],
@@ -22064,7 +22113,7 @@
         16,
         28,
         24,
-        8,
+        9,
         0
       ],
       "monthSeries": [
@@ -22110,7 +22159,7 @@
         },
         {
           "month": "2026-11",
-          "count": 8
+          "count": 9
         }
       ],
       "weekSeries": [
@@ -22394,7 +22443,7 @@
           "week": 47,
           "start": "2026-11-16",
           "end": "2026-11-22",
-          "count": 1
+          "count": 2
         },
         {
           "week": 48,
@@ -22452,7 +22501,7 @@
         },
         {
           "rating": 2.5,
-          "count": 29
+          "count": 30
         },
         {
           "rating": 3,
@@ -22491,7 +22540,7 @@
         {
           "decade": 2000,
           "label": "2000s",
-          "count": 23,
+          "count": 24,
           "averageRating": 3.5
         },
         {
@@ -22696,46 +22745,46 @@
           "slug": "the-family-plan-2"
         },
         {
-          "n": 259,
+          "n": 260,
           "kind": "latest",
-          "date": "2026-11-17",
-          "title": "Army of Thieves",
-          "year": "2021",
-          "rating": 2,
-          "url": "https://letterboxd.com/kunal_unsolved/film/army-of-thieves/",
+          "date": "2026-11-19",
+          "title": "X-Men",
+          "year": "2000",
+          "rating": 2.5,
+          "url": "https://letterboxd.com/kunal_unsolved/film/x-men/",
           "reviewed": true,
-          "reviewUrl": "https://letterboxd.com/kunal_unsolved/film/army-of-thieves/",
-          "filmUid": "film:714279",
-          "lid": "tYai",
-          "slug": "army-of-thieves"
+          "reviewUrl": "https://letterboxd.com/kunal_unsolved/film/x-men/",
+          "filmUid": "film:27723",
+          "lid": "1a7s",
+          "slug": "x-men"
         }
       ]
     }
   },
   "allTime": {
     "scope": "all",
-    "films": 392,
-    "entries": 281,
-    "distinctFilms": 270,
+    "films": 393,
+    "entries": 282,
+    "distinctFilms": 271,
     "firstEntry": "2025-11-07",
-    "lastEntry": "2026-11-17",
-    "spanDays": 376,
-    "daysActive": 205,
+    "lastEntry": "2026-11-19",
+    "spanDays": 378,
+    "daysActive": 206,
     "multiFilmDays": 63,
     "rewatches": 21,
     "liked": 0,
-    "rated": 280,
+    "rated": 281,
     "releaseBreakdown": {
       "sameYear": 61,
-      "older": 220,
+      "older": 221,
       "other": 0
     },
     "watchBreakdown": {
-      "firstWatches": 260,
+      "firstWatches": 261,
       "rewatches": 21
     },
     "reviewBreakdown": {
-      "reviewed": 221,
+      "reviewed": 222,
       "notReviewed": 60
     },
     "averageRating": 3.2,
@@ -22765,8 +22814,8 @@
       },
       {
         "year": 2026,
-        "films": 259,
-        "days": 185
+        "films": 260,
+        "days": 186
       }
     ],
     "perWeekday": [
@@ -22774,7 +22823,7 @@
       34,
       31,
       35,
-      46,
+      47,
       44,
       45
     ],
@@ -22789,7 +22838,7 @@
       16,
       28,
       24,
-      14,
+      15,
       16
     ],
     "monthSeries": [
@@ -22843,7 +22892,7 @@
       },
       {
         "month": "2026-11",
-        "count": 8
+        "count": 9
       }
     ],
     "weekSeries": [],
@@ -22866,7 +22915,7 @@
       },
       {
         "rating": 2.5,
-        "count": 31
+        "count": 32
       },
       {
         "rating": 3,
@@ -22905,7 +22954,7 @@
       {
         "decade": 2000,
         "label": "2000s",
-        "count": 26,
+        "count": 27,
         "averageRating": 3.5
       },
       {
@@ -23120,18 +23169,18 @@
         "slug": "thunderbolts"
       },
       {
-        "n": 281,
+        "n": 282,
         "kind": "latest",
-        "date": "2026-11-17",
-        "title": "Army of Thieves",
-        "year": "2021",
-        "rating": 2,
-        "url": "https://letterboxd.com/kunal_unsolved/film/army-of-thieves/",
+        "date": "2026-11-19",
+        "title": "X-Men",
+        "year": "2000",
+        "rating": 2.5,
+        "url": "https://letterboxd.com/kunal_unsolved/film/x-men/",
         "reviewed": true,
-        "reviewUrl": "https://letterboxd.com/kunal_unsolved/film/army-of-thieves/",
-        "filmUid": "film:714279",
-        "lid": "tYai",
-        "slug": "army-of-thieves"
+        "reviewUrl": "https://letterboxd.com/kunal_unsolved/film/x-men/",
+        "filmUid": "film:27723",
+        "lid": "1a7s",
+        "slug": "x-men"
       }
     ]
   }

@@ -420,6 +420,12 @@
       "runtime": 145,
       "averageRating": 3.2,
       "fetchedAt": "2026-11-14T05:26:44.068Z"
+    },
+    "https://letterboxd.com/film/x-men/": {
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/7/7/2/3/27723-x-men-0-600-0-900-crop.jpg?v=fce66dceb6",
+      "runtime": 104,
+      "averageRating": 3.34,
+      "fetchedAt": "2026-11-20T06:12:52.758Z"
     }
   }
 }
