@@ -92,7 +92,7 @@
         <tspan fill="#7d8590">@kunal_unsolved</tspan>
       </a>
       <tspan dx="5" fill="#7d8590">•</tspan>
-      <tspan dx="5" fill="#e6edf3">393</tspan>
+      <tspan dx="5" fill="#e6edf3">394</tspan>
       <tspan fill="#7d8590"> Films</tspan>
       <tspan dx="5" fill="#7d8590">•</tspan>
       <tspan dx="5" fill="#e6edf3">13</tspan>
@@ -126,7 +126,7 @@
         <text x="101" y="50" font-size="8" fill="#f0f6fc" text-anchor="middle">70</text>
         <rect x="93" y="53" width="16" height="17" rx="2" fill="#26a641"/>
         <text x="101" y="84" font-size="7" fill="#e6edf3" text-anchor="middle">2010s</text>
-        <text x="127" y="27" font-size="8" fill="#f0f6fc" text-anchor="middle">161</text>
+        <text x="127" y="27" font-size="8" fill="#f0f6fc" text-anchor="middle">162</text>
         <rect x="119" y="30" width="16" height="40" rx="2" fill="#26a641"/>
         <text x="127" y="84" font-size="7" fill="#e6edf3" text-anchor="middle">2020s</text>
     </g>
@@ -134,15 +134,15 @@
 
     <!-- Movies with rating distribution tooltip -->
     <g class="movies-group" transform="translate(60, 5)">
-      <text x="0" y="15" font-size="14" font-weight="500" fill="#7d8590">260 Movies</text>
+      <text x="0" y="15" font-size="14" font-weight="500" fill="#7d8590">261 Movies</text>
       <g class="movies-tooltip" transform="translate(-30, -116)">
         <rect x="0" y="0" width="260" height="108" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
         <text x="130" y="15" font-size="11" font-weight="600" fill="#f0f6fc" text-anchor="middle">Rating Distribution (1 unrated)</text>
         <text x="22" y="64" font-size="8" fill="#f0f6fc" text-anchor="middle">4</text>
         <rect x="15" y="67" width="14" height="3" rx="2" fill="#0e4429"/>
         <text x="22" y="84" font-size="7" fill="#e6edf3" text-anchor="middle">0.5</text>
-        <text x="46" y="55" font-size="8" fill="#f0f6fc" text-anchor="middle">15</text>
-        <rect x="39" y="58" width="14" height="12" rx="2" fill="#0e4429"/>
+        <text x="46" y="56" font-size="8" fill="#f0f6fc" text-anchor="middle">15</text>
+        <rect x="39" y="59" width="14" height="11" rx="2" fill="#0e4429"/>
         <text x="46" y="84" font-size="7" fill="#e6edf3" text-anchor="middle">1</text>
         <text x="70" y="59" font-size="8" fill="#f0f6fc" text-anchor="middle">11</text>
         <rect x="63" y="62" width="14" height="8" rx="2" fill="#006d32"/>
@@ -153,13 +153,13 @@
         <text x="118" y="44" font-size="8" fill="#f0f6fc" text-anchor="middle">30</text>
         <rect x="111" y="47" width="14" height="23" rx="2" fill="#26a641"/>
         <text x="118" y="84" font-size="7" fill="#e6edf3" text-anchor="middle">2.5</text>
-        <text x="142" y="29" font-size="8" fill="#f0f6fc" text-anchor="middle">49</text>
-        <rect x="135" y="32" width="14" height="38" rx="2" fill="#26a641"/>
+        <text x="142" y="30" font-size="8" fill="#f0f6fc" text-anchor="middle">49</text>
+        <rect x="135" y="33" width="14" height="37" rx="2" fill="#26a641"/>
         <text x="142" y="84" font-size="7" fill="#e6edf3" text-anchor="middle">3</text>
-        <text x="166" y="35" font-size="8" fill="#f0f6fc" text-anchor="middle">41</text>
-        <rect x="159" y="38" width="14" height="32" rx="2" fill="#39d353"/>
+        <text x="166" y="36" font-size="8" fill="#f0f6fc" text-anchor="middle">41</text>
+        <rect x="159" y="39" width="14" height="31" rx="2" fill="#39d353"/>
         <text x="166" y="84" font-size="7" fill="#e6edf3" text-anchor="middle">3.5</text>
-        <text x="190" y="27" font-size="8" fill="#f0f6fc" text-anchor="middle">52</text>
+        <text x="190" y="27" font-size="8" fill="#f0f6fc" text-anchor="middle">53</text>
         <rect x="183" y="30" width="14" height="40" rx="2" fill="#39d353"/>
         <text x="190" y="84" font-size="7" fill="#e6edf3" text-anchor="middle">4</text>
         <text x="214" y="56" font-size="8" fill="#f0f6fc" text-anchor="middle">14</text>
@@ -169,7 +169,7 @@
         <rect x="231" y="56" width="14" height="14" rx="2" fill="#39d353"/>
         <text x="238" y="84" font-size="7" fill="#e6edf3" text-anchor="middle">5</text>
         <line x1="12" y1="90" x2="248" y2="90" stroke="#30363d" stroke-width="1"/>
-        <text x="130" y="102" font-size="10" font-weight="500" fill="#7d8590" text-anchor="middle">Ø 3.1★ · 259 rated · ↻ 20</text>
+        <text x="130" y="102" font-size="10" font-weight="500" fill="#7d8590" text-anchor="middle">Ø 3.1★ · 260 rated · ↻ 20</text>
       </g>
     </g>
 
@@ -180,26 +180,26 @@
         <rect x="0" y="0" width="200" height="105" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
         <text x="100" y="18" font-size="11" font-weight="600" fill="#f0f6fc" text-anchor="middle">Weekly Distribution</text>
         
-        <text x="27" y="34" font-size="9" fill="#f0f6fc" text-anchor="middle">42</text>
-        <rect x="20" y="37" width="14" height="43" rx="2" fill="#26a641"/>
+        <text x="27" y="35" font-size="9" fill="#f0f6fc" text-anchor="middle">42</text>
+        <rect x="20" y="38" width="14" height="42" rx="2" fill="#26a641"/>
         <text x="27" y="100" font-size="9" fill="#e6edf3" text-anchor="middle">S</text>
-        <text x="51" y="46" font-size="9" fill="#f0f6fc" text-anchor="middle">30</text>
-        <rect x="44" y="49" width="14" height="31" rx="2" fill="#26a641"/>
+        <text x="51" y="47" font-size="9" fill="#f0f6fc" text-anchor="middle">30</text>
+        <rect x="44" y="50" width="14" height="30" rx="2" fill="#26a641"/>
         <text x="51" y="100" font-size="9" fill="#e6edf3" text-anchor="middle">M</text>
-        <text x="75" y="45" font-size="9" fill="#f0f6fc" text-anchor="middle">31</text>
-        <rect x="68" y="48" width="14" height="32" rx="2" fill="#26a641"/>
+        <text x="75" y="46" font-size="9" fill="#f0f6fc" text-anchor="middle">31</text>
+        <rect x="68" y="49" width="14" height="31" rx="2" fill="#26a641"/>
         <text x="75" y="100" font-size="9" fill="#e6edf3" text-anchor="middle">T</text>
-        <text x="99" y="44" font-size="9" fill="#f0f6fc" text-anchor="middle">32</text>
-        <rect x="92" y="47" width="14" height="33" rx="2" fill="#26a641"/>
+        <text x="99" y="45" font-size="9" fill="#f0f6fc" text-anchor="middle">32</text>
+        <rect x="92" y="48" width="14" height="32" rx="2" fill="#26a641"/>
         <text x="99" y="100" font-size="9" fill="#e6edf3" text-anchor="middle">W</text>
-        <text x="123" y="32" font-size="9" fill="#f0f6fc" text-anchor="middle">44</text>
+        <text x="123" y="32" font-size="9" fill="#f0f6fc" text-anchor="middle">45</text>
         <rect x="116" y="35" width="14" height="45" rx="2" fill="#26a641"/>
         <text x="123" y="100" font-size="9" fill="#e6edf3" text-anchor="middle">T</text>
-        <text x="147" y="36" font-size="9" fill="#f0f6fc" text-anchor="middle">40</text>
-        <rect x="140" y="39" width="14" height="41" rx="2" fill="#26a641"/>
+        <text x="147" y="37" font-size="9" fill="#f0f6fc" text-anchor="middle">40</text>
+        <rect x="140" y="40" width="14" height="40" rx="2" fill="#26a641"/>
         <text x="147" y="100" font-size="9" fill="#e6edf3" text-anchor="middle">F</text>
-        <text x="171" y="35" font-size="9" fill="#f0f6fc" text-anchor="middle">41</text>
-        <rect x="164" y="38" width="14" height="42" rx="2" fill="#26a641"/>
+        <text x="171" y="36" font-size="9" fill="#f0f6fc" text-anchor="middle">41</text>
+        <rect x="164" y="39" width="14" height="41" rx="2" fill="#26a641"/>
         <text x="171" y="100" font-size="9" fill="#e6edf3" text-anchor="middle">S</text>
       </g>
     </g>
@@ -2875,12 +2875,13 @@
           width="14"
           height="14"
           rx="2"
-          fill="#006d32" style="animation-delay:526ms"
+          fill="#26a641" style="animation-delay:526ms"
         />
-        <g class="tooltip-group" transform="translate(699, 4)">
-          <rect x="0" y="0" width="240" height="56" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+        <g class="tooltip-group" transform="translate(645, -14)">
+          <rect x="0" y="0" width="294" height="74" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
-            <tspan x="10" dy="22" font-weight="600">Thu, 19. Nov 2026: 1 movie watched</tspan>
+            <tspan x="10" dy="22" font-weight="600">Thu, 19. Nov 2026: 2 movies watched</tspan>
+            <tspan x="10" dy="18">• The Fantastic 4: First Steps (2025) - 4★</tspan>
             <tspan x="10" dy="18">• X-Men (2000) - 2.5★</tspan>
           </text>
         </g>

@@ -6,7 +6,7 @@
     2026,
     2025
   ],
-  "generatedAt": "2026-11-20T06:12:52.016Z",
+  "generatedAt": "2026-11-21T06:02:50.908Z",
   "meta": {
     "weekStart": "sunday",
     "minYear": 2025,
@@ -18,7 +18,7 @@
     "maxCount": 3
   },
   "stats": {
-    "films": 282,
+    "films": 283,
     "daysActive": 206,
     "streak": 21,
     "streakFilms": 34,
@@ -11576,9 +11576,22 @@
       "date": "2026-11-19",
       "week": 98,
       "weekday": 4,
-      "count": 1,
-      "ratingAvg": 2.5,
+      "count": 2,
+      "ratingAvg": 3.3,
       "films": [
+        {
+          "title": "The Fantastic 4: First Steps",
+          "year": "2025",
+          "rating": 4,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/kunal_unsolved/film/the-fantastic-4-first-steps/",
+          "reviewed": false,
+          "reviewUrl": null,
+          "filmUid": "film:543967",
+          "lid": "mP6C",
+          "slug": "the-fantastic-4-first-steps"
+        },
         {
           "title": "X-Men",
           "year": "2000",
@@ -11593,7 +11606,7 @@
           "slug": "x-men"
         }
       ],
-      "level": 2,
+      "level": 3,
       "inRange": true,
       "url": "https://letterboxd.com/kunal_unsolved/diary/films/for/2026/11/19/"
     },
@@ -17356,9 +17369,22 @@
     },
     {
       "date": "2026-11-19",
-      "count": 1,
-      "ratingAvg": 2.5,
+      "count": 2,
+      "ratingAvg": 3.3,
       "films": [
+        {
+          "title": "The Fantastic 4: First Steps",
+          "year": "2025",
+          "rating": 4,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/kunal_unsolved/film/the-fantastic-4-first-steps/",
+          "reviewed": false,
+          "reviewUrl": null,
+          "filmUid": "film:543967",
+          "lid": "mP6C",
+          "slug": "the-fantastic-4-first-steps"
+        },
         {
           "title": "X-Men",
           "year": "2000",
@@ -17377,10 +17403,24 @@
     }
   ],
   "onThisDay": {
-    "date": "2026-11-20",
+    "date": "2026-11-21",
     "films": []
   },
   "recent": [
+    {
+      "date": "2026-11-19",
+      "title": "The Fantastic 4: First Steps",
+      "year": "2025",
+      "rating": 4,
+      "rewatch": false,
+      "liked": false,
+      "url": "https://letterboxd.com/kunal_unsolved/film/the-fantastic-4-first-steps/",
+      "reviewed": false,
+      "reviewUrl": null,
+      "filmUid": "film:543967",
+      "lid": "mP6C",
+      "slug": "the-fantastic-4-first-steps"
+    },
     {
       "date": "2026-11-19",
       "title": "X-Men",
@@ -17590,23 +17630,23 @@
       "filmUid": "film:928117",
       "lid": "CWsi",
       "slug": "the-family-plan"
-    },
-    {
-      "date": "2026-10-19",
-      "title": "Masterplan",
-      "year": "2026",
-      "rating": 1,
-      "rewatch": false,
-      "liked": false,
-      "url": "https://letterboxd.com/kunal_unsolved/film/masterplan-2026/",
-      "reviewed": true,
-      "reviewUrl": "https://letterboxd.com/kunal_unsolved/film/masterplan-2026/",
-      "filmUid": "film:1435145",
-      "lid": "Ydt0",
-      "slug": "masterplan-2026"
     }
   ],
   "diary": [
+    {
+      "date": "2026-11-19",
+      "title": "The Fantastic 4: First Steps",
+      "year": "2025",
+      "rating": 4,
+      "rewatch": false,
+      "liked": false,
+      "url": "https://letterboxd.com/kunal_unsolved/film/the-fantastic-4-first-steps/",
+      "reviewed": false,
+      "reviewUrl": null,
+      "filmUid": "film:543967",
+      "lid": "mP6C",
+      "slug": "the-fantastic-4-first-steps"
+    },
     {
       "date": "2026-11-19",
       "title": "X-Men",
@@ -22044,33 +22084,33 @@
     "2026": {
       "scope": "year",
       "films": null,
-      "entries": 260,
-      "distinctFilms": 250,
+      "entries": 261,
+      "distinctFilms": 251,
       "firstEntry": "2026-01-03",
       "lastEntry": "2026-11-19",
       "spanDays": 321,
       "daysActive": 186,
-      "multiFilmDays": 61,
+      "multiFilmDays": 62,
       "rewatches": 20,
       "liked": 0,
-      "rated": 259,
+      "rated": 260,
       "releaseBreakdown": {
         "sameYear": 57,
-        "older": 203,
+        "older": 204,
         "other": 0
       },
       "watchBreakdown": {
-        "firstWatches": 240,
+        "firstWatches": 241,
         "rewatches": 20
       },
       "reviewBreakdown": {
         "reviewed": 210,
-        "notReviewed": 50
+        "notReviewed": 51
       },
       "averageRating": 3.1,
       "perDay": 0.81,
       "perWeek": 5.7,
-      "perMonth": 24.7,
+      "perMonth": 24.8,
       "streak": {
         "length": 21,
         "startDate": "2026-01-20",
@@ -22089,7 +22129,7 @@
       "perYear": [
         {
           "year": 2026,
-          "films": 260,
+          "films": 261,
           "days": 186
         }
       ],
@@ -22098,7 +22138,7 @@
         30,
         31,
         32,
-        44,
+        45,
         40,
         41
       ],
@@ -22113,7 +22153,7 @@
         16,
         28,
         24,
-        9,
+        10,
         0
       ],
       "monthSeries": [
@@ -22159,7 +22199,7 @@
         },
         {
           "month": "2026-11",
-          "count": 9
+          "count": 10
         }
       ],
       "weekSeries": [
@@ -22443,7 +22483,7 @@
           "week": 47,
           "start": "2026-11-16",
           "end": "2026-11-22",
-          "count": 2
+          "count": 3
         },
         {
           "week": 48,
@@ -22513,7 +22553,7 @@
         },
         {
           "rating": 4,
-          "count": 52
+          "count": 53
         },
         {
           "rating": 4.5,
@@ -22552,7 +22592,7 @@
         {
           "decade": 2020,
           "label": "2020s",
-          "count": 161,
+          "count": 162,
           "averageRating": 3
         }
       ],
@@ -22745,7 +22785,7 @@
           "slug": "the-family-plan-2"
         },
         {
-          "n": 260,
+          "n": 261,
           "kind": "latest",
           "date": "2026-11-19",
           "title": "X-Men",
@@ -22763,34 +22803,34 @@
   },
   "allTime": {
     "scope": "all",
-    "films": 393,
-    "entries": 282,
-    "distinctFilms": 271,
+    "films": 394,
+    "entries": 283,
+    "distinctFilms": 272,
     "firstEntry": "2025-11-07",
     "lastEntry": "2026-11-19",
     "spanDays": 378,
     "daysActive": 206,
-    "multiFilmDays": 63,
+    "multiFilmDays": 64,
     "rewatches": 21,
     "liked": 0,
-    "rated": 281,
+    "rated": 282,
     "releaseBreakdown": {
       "sameYear": 61,
-      "older": 221,
+      "older": 222,
       "other": 0
     },
     "watchBreakdown": {
-      "firstWatches": 261,
+      "firstWatches": 262,
       "rewatches": 21
     },
     "reviewBreakdown": {
       "reviewed": 222,
-      "notReviewed": 60
+      "notReviewed": 61
     },
     "averageRating": 3.2,
     "perDay": 0.75,
     "perWeek": 5.2,
-    "perMonth": 22.7,
+    "perMonth": 22.8,
     "streak": {
       "length": 21,
       "startDate": "2026-01-20",
@@ -22814,7 +22854,7 @@
       },
       {
         "year": 2026,
-        "films": 260,
+        "films": 261,
         "days": 186
       }
     ],
@@ -22823,7 +22863,7 @@
       34,
       31,
       35,
-      47,
+      48,
       44,
       45
     ],
@@ -22838,7 +22878,7 @@
       16,
       28,
       24,
-      15,
+      16,
       16
     ],
     "monthSeries": [
@@ -22892,7 +22932,7 @@
       },
       {
         "month": "2026-11",
-        "count": 9
+        "count": 10
       }
     ],
     "weekSeries": [],
@@ -22927,7 +22967,7 @@
       },
       {
         "rating": 4,
-        "count": 61
+        "count": 62
       },
       {
         "rating": 4.5,
@@ -22966,7 +23006,7 @@
       {
         "decade": 2020,
         "label": "2020s",
-        "count": 175,
+        "count": 176,
         "averageRating": 3
       }
     ],
@@ -23169,7 +23209,7 @@
         "slug": "thunderbolts"
       },
       {
-        "n": 282,
+        "n": 283,
         "kind": "latest",
         "date": "2026-11-19",
         "title": "X-Men",
