@@ -6,7 +6,7 @@
     2026,
     2025
   ],
-  "generatedAt": "2026-11-23T06:21:43.268Z",
+  "generatedAt": "2026-11-24T08:55:04.805Z",
   "meta": {
     "weekStart": "sunday",
     "minYear": 2025,
@@ -18,11 +18,11 @@
     "maxCount": 3
   },
   "stats": {
-    "films": 283,
-    "daysActive": 206,
+    "films": 287,
+    "daysActive": 209,
     "streak": 21,
     "streakFilms": 34,
-    "rewatches": 21,
+    "rewatches": 23,
     "liked": 0
   },
   "monthLabels": [
@@ -10478,7 +10478,7 @@
           "title": "Avengers: Endgame",
           "year": "2019",
           "rating": 5,
-          "rewatch": false,
+          "rewatch": true,
           "liked": false,
           "url": "https://letterboxd.com/kunal_unsolved/film/avengers-endgame/",
           "reviewed": true,
@@ -11625,10 +11625,24 @@
       "date": "2026-11-21",
       "week": 98,
       "weekday": 6,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 1,
+      "ratingAvg": 3.5,
+      "films": [
+        {
+          "title": "Tere Ishk Mein",
+          "year": "2025",
+          "rating": 3.5,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/kunal_unsolved/film/tere-ishk-mein/",
+          "reviewed": true,
+          "reviewUrl": "https://letterboxd.com/kunal_unsolved/film/tere-ishk-mein/",
+          "filmUid": "film:1030068",
+          "lid": "HdG0",
+          "slug": "tere-ishk-mein"
+        }
+      ],
+      "level": 2,
       "inRange": true,
       "url": "https://letterboxd.com/kunal_unsolved/diary/films/for/2026/11/21/"
     },
@@ -11636,10 +11650,24 @@
       "date": "2026-11-22",
       "week": 99,
       "weekday": 0,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 1,
+      "ratingAvg": 2.5,
+      "films": [
+        {
+          "title": "Saali Mohabbat",
+          "year": "2024",
+          "rating": 2.5,
+          "rewatch": true,
+          "liked": false,
+          "url": "https://letterboxd.com/kunal_unsolved/film/saali-mohabbat/1/",
+          "reviewed": false,
+          "reviewUrl": null,
+          "filmUid": "film:1106008",
+          "lid": "Kpeo",
+          "slug": "saali-mohabbat"
+        }
+      ],
+      "level": 2,
       "inRange": true,
       "url": "https://letterboxd.com/kunal_unsolved/diary/films/for/2026/11/22/"
     },
@@ -11647,10 +11675,37 @@
       "date": "2026-11-23",
       "week": 99,
       "weekday": 1,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 2,
+      "ratingAvg": 0.8,
+      "films": [
+        {
+          "title": "Mayookha",
+          "year": "2026",
+          "rating": 1,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/kunal_unsolved/film/mayookha/",
+          "reviewed": true,
+          "reviewUrl": "https://letterboxd.com/kunal_unsolved/film/mayookha/",
+          "filmUid": "film:1489194",
+          "lid": "10u4A",
+          "slug": "mayookha"
+        },
+        {
+          "title": "Ramayana: Rise of a Legend",
+          "year": "2026",
+          "rating": 0.5,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/kunal_unsolved/film/ramayana-rise-of-a-legend/",
+          "reviewed": true,
+          "reviewUrl": "https://letterboxd.com/kunal_unsolved/film/ramayana-rise-of-a-legend/",
+          "filmUid": "film:582466",
+          "lid": "org8",
+          "slug": "ramayana-rise-of-a-legend"
+        }
+      ],
+      "level": 3,
       "inRange": true,
       "url": "https://letterboxd.com/kunal_unsolved/diary/films/for/2026/11/23/"
     },
@@ -16655,7 +16710,7 @@
           "title": "Avengers: Endgame",
           "year": "2019",
           "rating": 5,
-          "rewatch": false,
+          "rewatch": true,
           "liked": false,
           "url": "https://letterboxd.com/kunal_unsolved/film/avengers-endgame/",
           "reviewed": true,
@@ -17400,13 +17455,145 @@
         }
       ],
       "url": "https://letterboxd.com/kunal_unsolved/diary/films/for/2026/11/19/"
+    },
+    {
+      "date": "2026-11-21",
+      "count": 1,
+      "ratingAvg": 3.5,
+      "films": [
+        {
+          "title": "Tere Ishk Mein",
+          "year": "2025",
+          "rating": 3.5,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/kunal_unsolved/film/tere-ishk-mein/",
+          "reviewed": true,
+          "reviewUrl": "https://letterboxd.com/kunal_unsolved/film/tere-ishk-mein/",
+          "filmUid": "film:1030068",
+          "lid": "HdG0",
+          "slug": "tere-ishk-mein"
+        }
+      ],
+      "url": "https://letterboxd.com/kunal_unsolved/diary/films/for/2026/11/21/"
+    },
+    {
+      "date": "2026-11-22",
+      "count": 1,
+      "ratingAvg": 2.5,
+      "films": [
+        {
+          "title": "Saali Mohabbat",
+          "year": "2024",
+          "rating": 2.5,
+          "rewatch": true,
+          "liked": false,
+          "url": "https://letterboxd.com/kunal_unsolved/film/saali-mohabbat/1/",
+          "reviewed": false,
+          "reviewUrl": null,
+          "filmUid": "film:1106008",
+          "lid": "Kpeo",
+          "slug": "saali-mohabbat"
+        }
+      ],
+      "url": "https://letterboxd.com/kunal_unsolved/diary/films/for/2026/11/22/"
+    },
+    {
+      "date": "2026-11-23",
+      "count": 2,
+      "ratingAvg": 0.8,
+      "films": [
+        {
+          "title": "Mayookha",
+          "year": "2026",
+          "rating": 1,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/kunal_unsolved/film/mayookha/",
+          "reviewed": true,
+          "reviewUrl": "https://letterboxd.com/kunal_unsolved/film/mayookha/",
+          "filmUid": "film:1489194",
+          "lid": "10u4A",
+          "slug": "mayookha"
+        },
+        {
+          "title": "Ramayana: Rise of a Legend",
+          "year": "2026",
+          "rating": 0.5,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/kunal_unsolved/film/ramayana-rise-of-a-legend/",
+          "reviewed": true,
+          "reviewUrl": "https://letterboxd.com/kunal_unsolved/film/ramayana-rise-of-a-legend/",
+          "filmUid": "film:582466",
+          "lid": "org8",
+          "slug": "ramayana-rise-of-a-legend"
+        }
+      ],
+      "url": "https://letterboxd.com/kunal_unsolved/diary/films/for/2026/11/23/"
     }
   ],
   "onThisDay": {
-    "date": "2026-11-23",
+    "date": "2026-11-24",
     "films": []
   },
   "recent": [
+    {
+      "date": "2026-11-23",
+      "title": "Mayookha",
+      "year": "2026",
+      "rating": 1,
+      "rewatch": false,
+      "liked": false,
+      "url": "https://letterboxd.com/kunal_unsolved/film/mayookha/",
+      "reviewed": true,
+      "reviewUrl": "https://letterboxd.com/kunal_unsolved/film/mayookha/",
+      "filmUid": "film:1489194",
+      "lid": "10u4A",
+      "slug": "mayookha"
+    },
+    {
+      "date": "2026-11-23",
+      "title": "Ramayana: Rise of a Legend",
+      "year": "2026",
+      "rating": 0.5,
+      "rewatch": false,
+      "liked": false,
+      "url": "https://letterboxd.com/kunal_unsolved/film/ramayana-rise-of-a-legend/",
+      "reviewed": true,
+      "reviewUrl": "https://letterboxd.com/kunal_unsolved/film/ramayana-rise-of-a-legend/",
+      "filmUid": "film:582466",
+      "lid": "org8",
+      "slug": "ramayana-rise-of-a-legend"
+    },
+    {
+      "date": "2026-11-22",
+      "title": "Saali Mohabbat",
+      "year": "2024",
+      "rating": 2.5,
+      "rewatch": true,
+      "liked": false,
+      "url": "https://letterboxd.com/kunal_unsolved/film/saali-mohabbat/1/",
+      "reviewed": false,
+      "reviewUrl": null,
+      "filmUid": "film:1106008",
+      "lid": "Kpeo",
+      "slug": "saali-mohabbat"
+    },
+    {
+      "date": "2026-11-21",
+      "title": "Tere Ishk Mein",
+      "year": "2025",
+      "rating": 3.5,
+      "rewatch": false,
+      "liked": false,
+      "url": "https://letterboxd.com/kunal_unsolved/film/tere-ishk-mein/",
+      "reviewed": true,
+      "reviewUrl": "https://letterboxd.com/kunal_unsolved/film/tere-ishk-mein/",
+      "filmUid": "film:1030068",
+      "lid": "HdG0",
+      "slug": "tere-ishk-mein"
+    },
     {
       "date": "2026-11-19",
       "title": "The Fantastic 4: First Steps",
@@ -17574,65 +17761,65 @@
       "filmUid": "film:1251459",
       "lid": "QvCe",
       "slug": "the-family-plan-2"
-    },
-    {
-      "date": "2026-10-22",
-      "title": "Vivarium",
-      "year": "2019",
-      "rating": 3.5,
-      "rewatch": false,
-      "liked": false,
-      "url": "https://letterboxd.com/kunal_unsolved/film/vivarium/",
-      "reviewed": true,
-      "reviewUrl": "https://letterboxd.com/kunal_unsolved/film/vivarium/",
-      "filmUid": "film:390139",
-      "lid": "gmVE",
-      "slug": "vivarium"
-    },
-    {
-      "date": "2026-10-21",
-      "title": "Doctor Strange in the Multiverse of Madness",
-      "year": "2022",
-      "rating": 4,
-      "rewatch": false,
-      "liked": false,
-      "url": "https://letterboxd.com/kunal_unsolved/film/doctor-strange-in-the-multiverse-of-madness/",
-      "reviewed": true,
-      "reviewUrl": "https://letterboxd.com/kunal_unsolved/film/doctor-strange-in-the-multiverse-of-madness/",
-      "filmUid": "film:385511",
-      "lid": "gaTc",
-      "slug": "doctor-strange-in-the-multiverse-of-madness"
-    },
-    {
-      "date": "2026-10-20",
-      "title": "Jailer 2",
-      "year": "2026",
-      "rating": 4,
-      "rewatch": false,
-      "liked": false,
-      "url": "https://letterboxd.com/kunal_unsolved/film/jailer-2-2026/",
-      "reviewed": true,
-      "reviewUrl": "https://letterboxd.com/kunal_unsolved/film/jailer-2-2026/",
-      "filmUid": "film:1117653",
-      "lid": "KTwC",
-      "slug": "jailer-2-2026"
-    },
-    {
-      "date": "2026-10-20",
-      "title": "The Family Plan",
-      "year": "2023",
-      "rating": 3.5,
-      "rewatch": false,
-      "liked": false,
-      "url": "https://letterboxd.com/kunal_unsolved/film/the-family-plan/",
-      "reviewed": true,
-      "reviewUrl": "https://letterboxd.com/kunal_unsolved/film/the-family-plan/",
-      "filmUid": "film:928117",
-      "lid": "CWsi",
-      "slug": "the-family-plan"
     }
   ],
   "diary": [
+    {
+      "date": "2026-11-23",
+      "title": "Mayookha",
+      "year": "2026",
+      "rating": 1,
+      "rewatch": false,
+      "liked": false,
+      "url": "https://letterboxd.com/kunal_unsolved/film/mayookha/",
+      "reviewed": true,
+      "reviewUrl": "https://letterboxd.com/kunal_unsolved/film/mayookha/",
+      "filmUid": "film:1489194",
+      "lid": "10u4A",
+      "slug": "mayookha"
+    },
+    {
+      "date": "2026-11-23",
+      "title": "Ramayana: Rise of a Legend",
+      "year": "2026",
+      "rating": 0.5,
+      "rewatch": false,
+      "liked": false,
+      "url": "https://letterboxd.com/kunal_unsolved/film/ramayana-rise-of-a-legend/",
+      "reviewed": true,
+      "reviewUrl": "https://letterboxd.com/kunal_unsolved/film/ramayana-rise-of-a-legend/",
+      "filmUid": "film:582466",
+      "lid": "org8",
+      "slug": "ramayana-rise-of-a-legend"
+    },
+    {
+      "date": "2026-11-22",
+      "title": "Saali Mohabbat",
+      "year": "2024",
+      "rating": 2.5,
+      "rewatch": true,
+      "liked": false,
+      "url": "https://letterboxd.com/kunal_unsolved/film/saali-mohabbat/1/",
+      "reviewed": false,
+      "reviewUrl": null,
+      "filmUid": "film:1106008",
+      "lid": "Kpeo",
+      "slug": "saali-mohabbat"
+    },
+    {
+      "date": "2026-11-21",
+      "title": "Tere Ishk Mein",
+      "year": "2025",
+      "rating": 3.5,
+      "rewatch": false,
+      "liked": false,
+      "url": "https://letterboxd.com/kunal_unsolved/film/tere-ishk-mein/",
+      "reviewed": true,
+      "reviewUrl": "https://letterboxd.com/kunal_unsolved/film/tere-ishk-mein/",
+      "filmUid": "film:1030068",
+      "lid": "HdG0",
+      "slug": "tere-ishk-mein"
+    },
     {
       "date": "2026-11-19",
       "title": "The Fantastic 4: First Steps",
@@ -18170,7 +18357,7 @@
       "title": "Avengers: Endgame",
       "year": "2019",
       "rating": 5,
-      "rewatch": false,
+      "rewatch": true,
       "liked": false,
       "url": "https://letterboxd.com/kunal_unsolved/film/avengers-endgame/",
       "reviewed": true,
@@ -22084,31 +22271,31 @@
     "2026": {
       "scope": "year",
       "films": null,
-      "entries": 261,
-      "distinctFilms": 251,
+      "entries": 265,
+      "distinctFilms": 255,
       "firstEntry": "2026-01-03",
-      "lastEntry": "2026-11-19",
-      "spanDays": 321,
-      "daysActive": 186,
-      "multiFilmDays": 62,
-      "rewatches": 20,
+      "lastEntry": "2026-11-23",
+      "spanDays": 325,
+      "daysActive": 189,
+      "multiFilmDays": 63,
+      "rewatches": 22,
       "liked": 0,
-      "rated": 260,
+      "rated": 264,
       "releaseBreakdown": {
-        "sameYear": 57,
-        "older": 204,
+        "sameYear": 59,
+        "older": 206,
         "other": 0
       },
       "watchBreakdown": {
-        "firstWatches": 241,
-        "rewatches": 20
+        "firstWatches": 243,
+        "rewatches": 22
       },
       "reviewBreakdown": {
-        "reviewed": 210,
-        "notReviewed": 51
+        "reviewed": 213,
+        "notReviewed": 52
       },
       "averageRating": 3.1,
-      "perDay": 0.81,
+      "perDay": 0.82,
       "perWeek": 5.7,
       "perMonth": 24.8,
       "streak": {
@@ -22129,18 +22316,18 @@
       "perYear": [
         {
           "year": 2026,
-          "films": 261,
-          "days": 186
+          "films": 265,
+          "days": 189
         }
       ],
       "perWeekday": [
-        42,
-        30,
+        43,
+        32,
         31,
         32,
         45,
         40,
-        41
+        42
       ],
       "perMonthOfYear": [
         33,
@@ -22153,7 +22340,7 @@
         16,
         28,
         24,
-        10,
+        14,
         0
       ],
       "monthSeries": [
@@ -22199,7 +22386,7 @@
         },
         {
           "month": "2026-11",
-          "count": 10
+          "count": 14
         }
       ],
       "weekSeries": [
@@ -22483,13 +22670,13 @@
           "week": 47,
           "start": "2026-11-16",
           "end": "2026-11-22",
-          "count": 3
+          "count": 5
         },
         {
           "week": 48,
           "start": "2026-11-23",
           "end": "2026-11-29",
-          "count": 0
+          "count": 2
         },
         {
           "week": 49,
@@ -22525,11 +22712,11 @@
       "ratings": [
         {
           "rating": 0.5,
-          "count": 4
+          "count": 5
         },
         {
           "rating": 1,
-          "count": 15
+          "count": 16
         },
         {
           "rating": 1.5,
@@ -22541,7 +22728,7 @@
         },
         {
           "rating": 2.5,
-          "count": 30
+          "count": 31
         },
         {
           "rating": 3,
@@ -22549,7 +22736,7 @@
         },
         {
           "rating": 3.5,
-          "count": 41
+          "count": 42
         },
         {
           "rating": 4,
@@ -22592,7 +22779,7 @@
         {
           "decade": 2020,
           "label": "2020s",
-          "count": 162,
+          "count": 166,
           "averageRating": 3
         }
       ],
@@ -22785,52 +22972,52 @@
           "slug": "the-family-plan-2"
         },
         {
-          "n": 261,
+          "n": 265,
           "kind": "latest",
-          "date": "2026-11-19",
-          "title": "X-Men",
-          "year": "2000",
-          "rating": 2.5,
-          "url": "https://letterboxd.com/kunal_unsolved/film/x-men/",
+          "date": "2026-11-23",
+          "title": "Ramayana: Rise of a Legend",
+          "year": "2026",
+          "rating": 0.5,
+          "url": "https://letterboxd.com/kunal_unsolved/film/ramayana-rise-of-a-legend/",
           "reviewed": true,
-          "reviewUrl": "https://letterboxd.com/kunal_unsolved/film/x-men/",
-          "filmUid": "film:27723",
-          "lid": "1a7s",
-          "slug": "x-men"
+          "reviewUrl": "https://letterboxd.com/kunal_unsolved/film/ramayana-rise-of-a-legend/",
+          "filmUid": "film:582466",
+          "lid": "org8",
+          "slug": "ramayana-rise-of-a-legend"
         }
       ]
     }
   },
   "allTime": {
     "scope": "all",
-    "films": 394,
-    "entries": 283,
-    "distinctFilms": 272,
+    "films": 397,
+    "entries": 287,
+    "distinctFilms": 275,
     "firstEntry": "2025-11-07",
-    "lastEntry": "2026-11-19",
-    "spanDays": 378,
-    "daysActive": 206,
-    "multiFilmDays": 64,
-    "rewatches": 21,
+    "lastEntry": "2026-11-23",
+    "spanDays": 382,
+    "daysActive": 209,
+    "multiFilmDays": 65,
+    "rewatches": 23,
     "liked": 0,
-    "rated": 282,
+    "rated": 286,
     "releaseBreakdown": {
-      "sameYear": 61,
-      "older": 222,
+      "sameYear": 63,
+      "older": 224,
       "other": 0
     },
     "watchBreakdown": {
-      "firstWatches": 262,
-      "rewatches": 21
+      "firstWatches": 264,
+      "rewatches": 23
     },
     "reviewBreakdown": {
-      "reviewed": 222,
-      "notReviewed": 61
+      "reviewed": 225,
+      "notReviewed": 62
     },
-    "averageRating": 3.2,
+    "averageRating": 3.1,
     "perDay": 0.75,
-    "perWeek": 5.2,
-    "perMonth": 22.8,
+    "perWeek": 5.3,
+    "perMonth": 22.9,
     "streak": {
       "length": 21,
       "startDate": "2026-01-20",
@@ -22854,18 +23041,18 @@
       },
       {
         "year": 2026,
-        "films": 261,
-        "days": 186
+        "films": 265,
+        "days": 189
       }
     ],
     "perWeekday": [
-      46,
-      34,
+      47,
+      36,
       31,
       35,
       48,
       44,
-      45
+      46
     ],
     "perMonthOfYear": [
       33,
@@ -22878,7 +23065,7 @@
       16,
       28,
       24,
-      16,
+      20,
       16
     ],
     "monthSeries": [
@@ -22932,18 +23119,18 @@
       },
       {
         "month": "2026-11",
-        "count": 10
+        "count": 14
       }
     ],
     "weekSeries": [],
     "ratings": [
       {
         "rating": 0.5,
-        "count": 4
+        "count": 5
       },
       {
         "rating": 1,
-        "count": 15
+        "count": 16
       },
       {
         "rating": 1.5,
@@ -22955,7 +23142,7 @@
       },
       {
         "rating": 2.5,
-        "count": 32
+        "count": 33
       },
       {
         "rating": 3,
@@ -22963,7 +23150,7 @@
       },
       {
         "rating": 3.5,
-        "count": 44
+        "count": 45
       },
       {
         "rating": 4,
@@ -23006,7 +23193,7 @@
       {
         "decade": 2020,
         "label": "2020s",
-        "count": 176,
+        "count": 180,
         "averageRating": 3
       }
     ],
@@ -23078,6 +23265,16 @@
         "filmUid": "film:1124975",
         "lid": "LczA",
         "slug": "normal-2025",
+        "views": 2,
+        "averageRating": 3
+      },
+      {
+        "title": "Saali Mohabbat",
+        "year": "2024",
+        "url": "https://letterboxd.com/kunal_unsolved/film/saali-mohabbat/",
+        "filmUid": "film:1106008",
+        "lid": "Kpeo",
+        "slug": "saali-mohabbat",
         "views": 2,
         "averageRating": 3
       },
@@ -23209,18 +23406,18 @@
         "slug": "thunderbolts"
       },
       {
-        "n": 283,
+        "n": 287,
         "kind": "latest",
-        "date": "2026-11-19",
-        "title": "X-Men",
-        "year": "2000",
-        "rating": 2.5,
-        "url": "https://letterboxd.com/kunal_unsolved/film/x-men/",
+        "date": "2026-11-23",
+        "title": "Ramayana: Rise of a Legend",
+        "year": "2026",
+        "rating": 0.5,
+        "url": "https://letterboxd.com/kunal_unsolved/film/ramayana-rise-of-a-legend/",
         "reviewed": true,
-        "reviewUrl": "https://letterboxd.com/kunal_unsolved/film/x-men/",
-        "filmUid": "film:27723",
-        "lid": "1a7s",
-        "slug": "x-men"
+        "reviewUrl": "https://letterboxd.com/kunal_unsolved/film/ramayana-rise-of-a-legend/",
+        "filmUid": "film:582466",
+        "lid": "org8",
+        "slug": "ramayana-rise-of-a-legend"
       }
     ]
   }

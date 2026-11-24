@@ -426,6 +426,12 @@
       "runtime": 104,
       "averageRating": 3.34,
       "fetchedAt": "2026-11-20T06:12:52.758Z"
+    },
+    "https://letterboxd.com/film/tere-ishk-mein/": {
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/3/0/0/6/8/1030068-tere-ishk-mein-0-600-0-900-crop.jpg?v=94b324f3cf",
+      "runtime": 169,
+      "averageRating": 2.35,
+      "fetchedAt": "2026-11-24T08:55:05.808Z"
     }
   }
 }
