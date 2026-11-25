@@ -6,7 +6,7 @@
     2026,
     2025
   ],
-  "generatedAt": "2026-11-24T08:55:04.805Z",
+  "generatedAt": "2026-11-25T07:30:41.822Z",
   "meta": {
     "weekStart": "sunday",
     "minYear": 2025,
@@ -18,8 +18,8 @@
     "maxCount": 3
   },
   "stats": {
-    "films": 287,
-    "daysActive": 209,
+    "films": 288,
+    "daysActive": 210,
     "streak": 21,
     "streakFilms": 34,
     "rewatches": 23,
@@ -11713,10 +11713,24 @@
       "date": "2026-11-24",
       "week": 99,
       "weekday": 2,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 1,
+      "ratingAvg": 4,
+      "films": [
+        {
+          "title": "Primetime",
+          "year": "2026",
+          "rating": 4,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/kunal_unsolved/film/primetime-2026/",
+          "reviewed": true,
+          "reviewUrl": "https://letterboxd.com/kunal_unsolved/film/primetime-2026/",
+          "filmUid": "film:1262019",
+          "lid": "QX5s",
+          "slug": "primetime-2026"
+        }
+      ],
+      "level": 2,
       "inRange": true,
       "url": "https://letterboxd.com/kunal_unsolved/diary/films/for/2026/11/24/"
     },
@@ -17531,13 +17545,48 @@
         }
       ],
       "url": "https://letterboxd.com/kunal_unsolved/diary/films/for/2026/11/23/"
+    },
+    {
+      "date": "2026-11-24",
+      "count": 1,
+      "ratingAvg": 4,
+      "films": [
+        {
+          "title": "Primetime",
+          "year": "2026",
+          "rating": 4,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/kunal_unsolved/film/primetime-2026/",
+          "reviewed": true,
+          "reviewUrl": "https://letterboxd.com/kunal_unsolved/film/primetime-2026/",
+          "filmUid": "film:1262019",
+          "lid": "QX5s",
+          "slug": "primetime-2026"
+        }
+      ],
+      "url": "https://letterboxd.com/kunal_unsolved/diary/films/for/2026/11/24/"
     }
   ],
   "onThisDay": {
-    "date": "2026-11-24",
+    "date": "2026-11-25",
     "films": []
   },
   "recent": [
+    {
+      "date": "2026-11-24",
+      "title": "Primetime",
+      "year": "2026",
+      "rating": 4,
+      "rewatch": false,
+      "liked": false,
+      "url": "https://letterboxd.com/kunal_unsolved/film/primetime-2026/",
+      "reviewed": true,
+      "reviewUrl": "https://letterboxd.com/kunal_unsolved/film/primetime-2026/",
+      "filmUid": "film:1262019",
+      "lid": "QX5s",
+      "slug": "primetime-2026"
+    },
     {
       "date": "2026-11-23",
       "title": "Mayookha",
@@ -17747,23 +17796,23 @@
       "filmUid": "film:1167151",
       "lid": "MYia",
       "slug": "verity-2026"
-    },
-    {
-      "date": "2026-10-25",
-      "title": "The Family Plan 2",
-      "year": "2025",
-      "rating": 3.5,
-      "rewatch": false,
-      "liked": false,
-      "url": "https://letterboxd.com/kunal_unsolved/film/the-family-plan-2/",
-      "reviewed": false,
-      "reviewUrl": null,
-      "filmUid": "film:1251459",
-      "lid": "QvCe",
-      "slug": "the-family-plan-2"
     }
   ],
   "diary": [
+    {
+      "date": "2026-11-24",
+      "title": "Primetime",
+      "year": "2026",
+      "rating": 4,
+      "rewatch": false,
+      "liked": false,
+      "url": "https://letterboxd.com/kunal_unsolved/film/primetime-2026/",
+      "reviewed": true,
+      "reviewUrl": "https://letterboxd.com/kunal_unsolved/film/primetime-2026/",
+      "filmUid": "film:1262019",
+      "lid": "QX5s",
+      "slug": "primetime-2026"
+    },
     {
       "date": "2026-11-23",
       "title": "Mayookha",
@@ -22271,27 +22320,27 @@
     "2026": {
       "scope": "year",
       "films": null,
-      "entries": 265,
-      "distinctFilms": 255,
+      "entries": 266,
+      "distinctFilms": 256,
       "firstEntry": "2026-01-03",
-      "lastEntry": "2026-11-23",
-      "spanDays": 325,
-      "daysActive": 189,
+      "lastEntry": "2026-11-24",
+      "spanDays": 326,
+      "daysActive": 190,
       "multiFilmDays": 63,
       "rewatches": 22,
       "liked": 0,
-      "rated": 264,
+      "rated": 265,
       "releaseBreakdown": {
-        "sameYear": 59,
+        "sameYear": 60,
         "older": 206,
         "other": 0
       },
       "watchBreakdown": {
-        "firstWatches": 243,
+        "firstWatches": 244,
         "rewatches": 22
       },
       "reviewBreakdown": {
-        "reviewed": 213,
+        "reviewed": 214,
         "notReviewed": 52
       },
       "averageRating": 3.1,
@@ -22316,14 +22365,14 @@
       "perYear": [
         {
           "year": 2026,
-          "films": 265,
-          "days": 189
+          "films": 266,
+          "days": 190
         }
       ],
       "perWeekday": [
         43,
         32,
-        31,
+        32,
         32,
         45,
         40,
@@ -22340,7 +22389,7 @@
         16,
         28,
         24,
-        14,
+        15,
         0
       ],
       "monthSeries": [
@@ -22386,7 +22435,7 @@
         },
         {
           "month": "2026-11",
-          "count": 14
+          "count": 15
         }
       ],
       "weekSeries": [
@@ -22676,7 +22725,7 @@
           "week": 48,
           "start": "2026-11-23",
           "end": "2026-11-29",
-          "count": 2
+          "count": 3
         },
         {
           "week": 49,
@@ -22740,7 +22789,7 @@
         },
         {
           "rating": 4,
-          "count": 53
+          "count": 54
         },
         {
           "rating": 4.5,
@@ -22779,7 +22828,7 @@
         {
           "decade": 2020,
           "label": "2020s",
-          "count": 166,
+          "count": 167,
           "averageRating": 3
         }
       ],
@@ -22972,46 +23021,46 @@
           "slug": "the-family-plan-2"
         },
         {
-          "n": 265,
+          "n": 266,
           "kind": "latest",
-          "date": "2026-11-23",
-          "title": "Ramayana: Rise of a Legend",
+          "date": "2026-11-24",
+          "title": "Primetime",
           "year": "2026",
-          "rating": 0.5,
-          "url": "https://letterboxd.com/kunal_unsolved/film/ramayana-rise-of-a-legend/",
+          "rating": 4,
+          "url": "https://letterboxd.com/kunal_unsolved/film/primetime-2026/",
           "reviewed": true,
-          "reviewUrl": "https://letterboxd.com/kunal_unsolved/film/ramayana-rise-of-a-legend/",
-          "filmUid": "film:582466",
-          "lid": "org8",
-          "slug": "ramayana-rise-of-a-legend"
+          "reviewUrl": "https://letterboxd.com/kunal_unsolved/film/primetime-2026/",
+          "filmUid": "film:1262019",
+          "lid": "QX5s",
+          "slug": "primetime-2026"
         }
       ]
     }
   },
   "allTime": {
     "scope": "all",
-    "films": 397,
-    "entries": 287,
-    "distinctFilms": 275,
+    "films": 398,
+    "entries": 288,
+    "distinctFilms": 276,
     "firstEntry": "2025-11-07",
-    "lastEntry": "2026-11-23",
-    "spanDays": 382,
-    "daysActive": 209,
+    "lastEntry": "2026-11-24",
+    "spanDays": 383,
+    "daysActive": 210,
     "multiFilmDays": 65,
     "rewatches": 23,
     "liked": 0,
-    "rated": 286,
+    "rated": 287,
     "releaseBreakdown": {
-      "sameYear": 63,
+      "sameYear": 64,
       "older": 224,
       "other": 0
     },
     "watchBreakdown": {
-      "firstWatches": 264,
+      "firstWatches": 265,
       "rewatches": 23
     },
     "reviewBreakdown": {
-      "reviewed": 225,
+      "reviewed": 226,
       "notReviewed": 62
     },
     "averageRating": 3.1,
@@ -23041,14 +23090,14 @@
       },
       {
         "year": 2026,
-        "films": 265,
-        "days": 189
+        "films": 266,
+        "days": 190
       }
     ],
     "perWeekday": [
       47,
       36,
-      31,
+      32,
       35,
       48,
       44,
@@ -23065,7 +23114,7 @@
       16,
       28,
       24,
-      20,
+      21,
       16
     ],
     "monthSeries": [
@@ -23119,7 +23168,7 @@
       },
       {
         "month": "2026-11",
-        "count": 14
+        "count": 15
       }
     ],
     "weekSeries": [],
@@ -23154,7 +23203,7 @@
       },
       {
         "rating": 4,
-        "count": 62
+        "count": 63
       },
       {
         "rating": 4.5,
@@ -23193,7 +23242,7 @@
       {
         "decade": 2020,
         "label": "2020s",
-        "count": 180,
+        "count": 181,
         "averageRating": 3
       }
     ],
@@ -23406,18 +23455,18 @@
         "slug": "thunderbolts"
       },
       {
-        "n": 287,
+        "n": 288,
         "kind": "latest",
-        "date": "2026-11-23",
-        "title": "Ramayana: Rise of a Legend",
+        "date": "2026-11-24",
+        "title": "Primetime",
         "year": "2026",
-        "rating": 0.5,
-        "url": "https://letterboxd.com/kunal_unsolved/film/ramayana-rise-of-a-legend/",
+        "rating": 4,
+        "url": "https://letterboxd.com/kunal_unsolved/film/primetime-2026/",
         "reviewed": true,
-        "reviewUrl": "https://letterboxd.com/kunal_unsolved/film/ramayana-rise-of-a-legend/",
-        "filmUid": "film:582466",
-        "lid": "org8",
-        "slug": "ramayana-rise-of-a-legend"
+        "reviewUrl": "https://letterboxd.com/kunal_unsolved/film/primetime-2026/",
+        "filmUid": "film:1262019",
+        "lid": "QX5s",
+        "slug": "primetime-2026"
       }
     ]
   }
