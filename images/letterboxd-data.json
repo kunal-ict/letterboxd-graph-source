@@ -6,7 +6,7 @@
     2026,
     2025
   ],
-  "generatedAt": "2026-11-25T07:30:41.822Z",
+  "generatedAt": "2026-11-26T07:20:43.252Z",
   "meta": {
     "weekStart": "sunday",
     "minYear": 2025,
@@ -18,8 +18,8 @@
     "maxCount": 3
   },
   "stats": {
-    "films": 288,
-    "daysActive": 210,
+    "films": 290,
+    "daysActive": 212,
     "streak": 21,
     "streakFilms": 34,
     "rewatches": 23,
@@ -11738,10 +11738,24 @@
       "date": "2026-11-25",
       "week": 99,
       "weekday": 3,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 1,
+      "ratingAvg": 4,
+      "films": [
+        {
+          "title": "The Sheep Detectives",
+          "year": "2026",
+          "rating": 4,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/kunal_unsolved/film/the-sheep-detectives/",
+          "reviewed": true,
+          "reviewUrl": "https://letterboxd.com/kunal_unsolved/film/the-sheep-detectives/",
+          "filmUid": "film:1183135",
+          "lid": "NDSe",
+          "slug": "the-sheep-detectives"
+        }
+      ],
+      "level": 2,
       "inRange": true,
       "url": "https://letterboxd.com/kunal_unsolved/diary/films/for/2026/11/25/"
     },
@@ -11749,10 +11763,24 @@
       "date": "2026-11-26",
       "week": 99,
       "weekday": 4,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 1,
+      "ratingAvg": 4,
+      "films": [
+        {
+          "title": "The Italian Job",
+          "year": "2003",
+          "rating": 4,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/kunal_unsolved/film/the-italian-job-2003/",
+          "reviewed": true,
+          "reviewUrl": "https://letterboxd.com/kunal_unsolved/film/the-italian-job-2003/",
+          "filmUid": "film:46947",
+          "lid": "1Y86",
+          "slug": "the-italian-job-2003"
+        }
+      ],
+      "level": 2,
       "inRange": true,
       "url": "https://letterboxd.com/kunal_unsolved/diary/films/for/2026/11/26/"
     },
@@ -17566,13 +17594,112 @@
         }
       ],
       "url": "https://letterboxd.com/kunal_unsolved/diary/films/for/2026/11/24/"
+    },
+    {
+      "date": "2026-11-25",
+      "count": 1,
+      "ratingAvg": 4,
+      "films": [
+        {
+          "title": "The Sheep Detectives",
+          "year": "2026",
+          "rating": 4,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/kunal_unsolved/film/the-sheep-detectives/",
+          "reviewed": true,
+          "reviewUrl": "https://letterboxd.com/kunal_unsolved/film/the-sheep-detectives/",
+          "filmUid": "film:1183135",
+          "lid": "NDSe",
+          "slug": "the-sheep-detectives"
+        }
+      ],
+      "url": "https://letterboxd.com/kunal_unsolved/diary/films/for/2026/11/25/"
+    },
+    {
+      "date": "2026-11-26",
+      "count": 1,
+      "ratingAvg": 4,
+      "films": [
+        {
+          "title": "The Italian Job",
+          "year": "2003",
+          "rating": 4,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/kunal_unsolved/film/the-italian-job-2003/",
+          "reviewed": true,
+          "reviewUrl": "https://letterboxd.com/kunal_unsolved/film/the-italian-job-2003/",
+          "filmUid": "film:46947",
+          "lid": "1Y86",
+          "slug": "the-italian-job-2003"
+        }
+      ],
+      "url": "https://letterboxd.com/kunal_unsolved/diary/films/for/2026/11/26/"
     }
   ],
   "onThisDay": {
-    "date": "2026-11-25",
-    "films": []
+    "date": "2026-11-26",
+    "films": [
+      {
+        "date": "2026-11-26",
+        "title": "The Italian Job",
+        "year": "2003",
+        "rating": 4,
+        "rewatch": false,
+        "liked": false,
+        "url": "https://letterboxd.com/kunal_unsolved/film/the-italian-job-2003/",
+        "reviewed": true,
+        "reviewUrl": "https://letterboxd.com/kunal_unsolved/film/the-italian-job-2003/",
+        "filmUid": "film:46947",
+        "lid": "1Y86",
+        "slug": "the-italian-job-2003"
+      },
+      {
+        "date": "2025-11-26",
+        "title": "Beast",
+        "year": "2022",
+        "rating": 3,
+        "rewatch": false,
+        "liked": false,
+        "url": "https://letterboxd.com/kunal_unsolved/film/beast-2022/",
+        "reviewed": false,
+        "reviewUrl": null,
+        "filmUid": "film:718045",
+        "lid": "u7XI",
+        "slug": "beast-2022"
+      }
+    ]
   },
   "recent": [
+    {
+      "date": "2026-11-26",
+      "title": "The Italian Job",
+      "year": "2003",
+      "rating": 4,
+      "rewatch": false,
+      "liked": false,
+      "url": "https://letterboxd.com/kunal_unsolved/film/the-italian-job-2003/",
+      "reviewed": true,
+      "reviewUrl": "https://letterboxd.com/kunal_unsolved/film/the-italian-job-2003/",
+      "filmUid": "film:46947",
+      "lid": "1Y86",
+      "slug": "the-italian-job-2003"
+    },
+    {
+      "date": "2026-11-25",
+      "title": "The Sheep Detectives",
+      "year": "2026",
+      "rating": 4,
+      "rewatch": false,
+      "liked": false,
+      "url": "https://letterboxd.com/kunal_unsolved/film/the-sheep-detectives/",
+      "reviewed": true,
+      "reviewUrl": "https://letterboxd.com/kunal_unsolved/film/the-sheep-detectives/",
+      "filmUid": "film:1183135",
+      "lid": "NDSe",
+      "slug": "the-sheep-detectives"
+    },
     {
       "date": "2026-11-24",
       "title": "Primetime",
@@ -17768,37 +17895,37 @@
       "filmUid": "film:1261836",
       "lid": "QWBW",
       "slug": "udta-teer"
-    },
-    {
-      "date": "2026-11-01",
-      "title": "Project X",
-      "year": "2012",
-      "rating": 3,
-      "rewatch": false,
-      "liked": false,
-      "url": "https://letterboxd.com/kunal_unsolved/film/project-x-2012/",
-      "reviewed": true,
-      "reviewUrl": "https://letterboxd.com/kunal_unsolved/film/project-x-2012/",
-      "filmUid": "film:8933",
-      "lid": "neO",
-      "slug": "project-x-2012"
-    },
-    {
-      "date": "2026-10-31",
-      "title": "Verity",
-      "year": "2026",
-      "rating": 2,
-      "rewatch": false,
-      "liked": false,
-      "url": "https://letterboxd.com/kunal_unsolved/film/verity-2026/",
-      "reviewed": true,
-      "reviewUrl": "https://letterboxd.com/kunal_unsolved/film/verity-2026/",
-      "filmUid": "film:1167151",
-      "lid": "MYia",
-      "slug": "verity-2026"
     }
   ],
   "diary": [
+    {
+      "date": "2026-11-26",
+      "title": "The Italian Job",
+      "year": "2003",
+      "rating": 4,
+      "rewatch": false,
+      "liked": false,
+      "url": "https://letterboxd.com/kunal_unsolved/film/the-italian-job-2003/",
+      "reviewed": true,
+      "reviewUrl": "https://letterboxd.com/kunal_unsolved/film/the-italian-job-2003/",
+      "filmUid": "film:46947",
+      "lid": "1Y86",
+      "slug": "the-italian-job-2003"
+    },
+    {
+      "date": "2026-11-25",
+      "title": "The Sheep Detectives",
+      "year": "2026",
+      "rating": 4,
+      "rewatch": false,
+      "liked": false,
+      "url": "https://letterboxd.com/kunal_unsolved/film/the-sheep-detectives/",
+      "reviewed": true,
+      "reviewUrl": "https://letterboxd.com/kunal_unsolved/film/the-sheep-detectives/",
+      "filmUid": "film:1183135",
+      "lid": "NDSe",
+      "slug": "the-sheep-detectives"
+    },
     {
       "date": "2026-11-24",
       "title": "Primetime",
@@ -22320,33 +22447,33 @@
     "2026": {
       "scope": "year",
       "films": null,
-      "entries": 266,
-      "distinctFilms": 256,
+      "entries": 268,
+      "distinctFilms": 258,
       "firstEntry": "2026-01-03",
-      "lastEntry": "2026-11-24",
-      "spanDays": 326,
-      "daysActive": 190,
+      "lastEntry": "2026-11-26",
+      "spanDays": 328,
+      "daysActive": 192,
       "multiFilmDays": 63,
       "rewatches": 22,
       "liked": 0,
-      "rated": 265,
+      "rated": 267,
       "releaseBreakdown": {
-        "sameYear": 60,
-        "older": 206,
+        "sameYear": 61,
+        "older": 207,
         "other": 0
       },
       "watchBreakdown": {
-        "firstWatches": 244,
+        "firstWatches": 246,
         "rewatches": 22
       },
       "reviewBreakdown": {
-        "reviewed": 214,
+        "reviewed": 216,
         "notReviewed": 52
       },
       "averageRating": 3.1,
       "perDay": 0.82,
       "perWeek": 5.7,
-      "perMonth": 24.8,
+      "perMonth": 24.9,
       "streak": {
         "length": 21,
         "startDate": "2026-01-20",
@@ -22365,16 +22492,16 @@
       "perYear": [
         {
           "year": 2026,
-          "films": 266,
-          "days": 190
+          "films": 268,
+          "days": 192
         }
       ],
       "perWeekday": [
         43,
         32,
         32,
-        32,
-        45,
+        33,
+        46,
         40,
         42
       ],
@@ -22389,7 +22516,7 @@
         16,
         28,
         24,
-        15,
+        17,
         0
       ],
       "monthSeries": [
@@ -22435,7 +22562,7 @@
         },
         {
           "month": "2026-11",
-          "count": 15
+          "count": 17
         }
       ],
       "weekSeries": [
@@ -22725,7 +22852,7 @@
           "week": 48,
           "start": "2026-11-23",
           "end": "2026-11-29",
-          "count": 3
+          "count": 5
         },
         {
           "week": 49,
@@ -22789,7 +22916,7 @@
         },
         {
           "rating": 4,
-          "count": 54
+          "count": 56
         },
         {
           "rating": 4.5,
@@ -22816,7 +22943,7 @@
         {
           "decade": 2000,
           "label": "2000s",
-          "count": 24,
+          "count": 25,
           "averageRating": 3.5
         },
         {
@@ -22828,7 +22955,7 @@
         {
           "decade": 2020,
           "label": "2020s",
-          "count": 167,
+          "count": 168,
           "averageRating": 3
         }
       ],
@@ -23021,49 +23148,49 @@
           "slug": "the-family-plan-2"
         },
         {
-          "n": 266,
+          "n": 268,
           "kind": "latest",
-          "date": "2026-11-24",
-          "title": "Primetime",
-          "year": "2026",
+          "date": "2026-11-26",
+          "title": "The Italian Job",
+          "year": "2003",
           "rating": 4,
-          "url": "https://letterboxd.com/kunal_unsolved/film/primetime-2026/",
+          "url": "https://letterboxd.com/kunal_unsolved/film/the-italian-job-2003/",
           "reviewed": true,
-          "reviewUrl": "https://letterboxd.com/kunal_unsolved/film/primetime-2026/",
-          "filmUid": "film:1262019",
-          "lid": "QX5s",
-          "slug": "primetime-2026"
+          "reviewUrl": "https://letterboxd.com/kunal_unsolved/film/the-italian-job-2003/",
+          "filmUid": "film:46947",
+          "lid": "1Y86",
+          "slug": "the-italian-job-2003"
         }
       ]
     }
   },
   "allTime": {
     "scope": "all",
-    "films": 398,
-    "entries": 288,
-    "distinctFilms": 276,
+    "films": 400,
+    "entries": 290,
+    "distinctFilms": 278,
     "firstEntry": "2025-11-07",
-    "lastEntry": "2026-11-24",
-    "spanDays": 383,
-    "daysActive": 210,
+    "lastEntry": "2026-11-26",
+    "spanDays": 385,
+    "daysActive": 212,
     "multiFilmDays": 65,
     "rewatches": 23,
     "liked": 0,
-    "rated": 287,
+    "rated": 289,
     "releaseBreakdown": {
-      "sameYear": 64,
-      "older": 224,
+      "sameYear": 65,
+      "older": 225,
       "other": 0
     },
     "watchBreakdown": {
-      "firstWatches": 265,
+      "firstWatches": 267,
       "rewatches": 23
     },
     "reviewBreakdown": {
-      "reviewed": 226,
+      "reviewed": 228,
       "notReviewed": 62
     },
-    "averageRating": 3.1,
+    "averageRating": 3.2,
     "perDay": 0.75,
     "perWeek": 5.3,
     "perMonth": 22.9,
@@ -23090,16 +23217,16 @@
       },
       {
         "year": 2026,
-        "films": 266,
-        "days": 190
+        "films": 268,
+        "days": 192
       }
     ],
     "perWeekday": [
       47,
       36,
       32,
-      35,
-      48,
+      36,
+      49,
       44,
       46
     ],
@@ -23114,7 +23241,7 @@
       16,
       28,
       24,
-      21,
+      23,
       16
     ],
     "monthSeries": [
@@ -23168,7 +23295,7 @@
       },
       {
         "month": "2026-11",
-        "count": 15
+        "count": 17
       }
     ],
     "weekSeries": [],
@@ -23203,7 +23330,7 @@
       },
       {
         "rating": 4,
-        "count": 63
+        "count": 65
       },
       {
         "rating": 4.5,
@@ -23230,7 +23357,7 @@
       {
         "decade": 2000,
         "label": "2000s",
-        "count": 27,
+        "count": 28,
         "averageRating": 3.5
       },
       {
@@ -23242,7 +23369,7 @@
       {
         "decade": 2020,
         "label": "2020s",
-        "count": 181,
+        "count": 182,
         "averageRating": 3
       }
     ],
@@ -23455,18 +23582,18 @@
         "slug": "thunderbolts"
       },
       {
-        "n": 288,
+        "n": 290,
         "kind": "latest",
-        "date": "2026-11-24",
-        "title": "Primetime",
-        "year": "2026",
+        "date": "2026-11-26",
+        "title": "The Italian Job",
+        "year": "2003",
         "rating": 4,
-        "url": "https://letterboxd.com/kunal_unsolved/film/primetime-2026/",
+        "url": "https://letterboxd.com/kunal_unsolved/film/the-italian-job-2003/",
         "reviewed": true,
-        "reviewUrl": "https://letterboxd.com/kunal_unsolved/film/primetime-2026/",
-        "filmUid": "film:1262019",
-        "lid": "QX5s",
-        "slug": "primetime-2026"
+        "reviewUrl": "https://letterboxd.com/kunal_unsolved/film/the-italian-job-2003/",
+        "filmUid": "film:46947",
+        "lid": "1Y86",
+        "slug": "the-italian-job-2003"
       }
     ]
   }
