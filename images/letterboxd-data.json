@@ -6,7 +6,7 @@
     2026,
     2025
   ],
-  "generatedAt": "2026-11-26T07:20:43.252Z",
+  "generatedAt": "2026-11-27T07:16:30.497Z",
   "meta": {
     "weekStart": "sunday",
     "minYear": 2025,
@@ -18,8 +18,8 @@
     "maxCount": 3
   },
   "stats": {
-    "films": 290,
-    "daysActive": 212,
+    "films": 291,
+    "daysActive": 213,
     "streak": 21,
     "streakFilms": 34,
     "rewatches": 23,
@@ -11788,10 +11788,24 @@
       "date": "2026-11-27",
       "week": 99,
       "weekday": 5,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 1,
+      "ratingAvg": 1.5,
+      "films": [
+        {
+          "title": "Mimi",
+          "year": "2021",
+          "rating": 1.5,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/kunal_unsolved/film/mimi-2021/",
+          "reviewed": true,
+          "reviewUrl": "https://letterboxd.com/kunal_unsolved/film/mimi-2021/",
+          "filmUid": "film:579146",
+          "lid": "oiCE",
+          "slug": "mimi-2021"
+        }
+      ],
+      "level": 2,
       "inRange": true,
       "url": "https://letterboxd.com/kunal_unsolved/diary/films/for/2026/11/27/"
     },
@@ -17636,42 +17650,63 @@
         }
       ],
       "url": "https://letterboxd.com/kunal_unsolved/diary/films/for/2026/11/26/"
+    },
+    {
+      "date": "2026-11-27",
+      "count": 1,
+      "ratingAvg": 1.5,
+      "films": [
+        {
+          "title": "Mimi",
+          "year": "2021",
+          "rating": 1.5,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/kunal_unsolved/film/mimi-2021/",
+          "reviewed": true,
+          "reviewUrl": "https://letterboxd.com/kunal_unsolved/film/mimi-2021/",
+          "filmUid": "film:579146",
+          "lid": "oiCE",
+          "slug": "mimi-2021"
+        }
+      ],
+      "url": "https://letterboxd.com/kunal_unsolved/diary/films/for/2026/11/27/"
     }
   ],
   "onThisDay": {
-    "date": "2026-11-26",
+    "date": "2026-11-27",
     "films": [
       {
-        "date": "2026-11-26",
-        "title": "The Italian Job",
-        "year": "2003",
-        "rating": 4,
+        "date": "2026-11-27",
+        "title": "Mimi",
+        "year": "2021",
+        "rating": 1.5,
         "rewatch": false,
         "liked": false,
-        "url": "https://letterboxd.com/kunal_unsolved/film/the-italian-job-2003/",
+        "url": "https://letterboxd.com/kunal_unsolved/film/mimi-2021/",
         "reviewed": true,
-        "reviewUrl": "https://letterboxd.com/kunal_unsolved/film/the-italian-job-2003/",
-        "filmUid": "film:46947",
-        "lid": "1Y86",
-        "slug": "the-italian-job-2003"
-      },
-      {
-        "date": "2025-11-26",
-        "title": "Beast",
-        "year": "2022",
-        "rating": 3,
-        "rewatch": false,
-        "liked": false,
-        "url": "https://letterboxd.com/kunal_unsolved/film/beast-2022/",
-        "reviewed": false,
-        "reviewUrl": null,
-        "filmUid": "film:718045",
-        "lid": "u7XI",
-        "slug": "beast-2022"
+        "reviewUrl": "https://letterboxd.com/kunal_unsolved/film/mimi-2021/",
+        "filmUid": "film:579146",
+        "lid": "oiCE",
+        "slug": "mimi-2021"
       }
     ]
   },
   "recent": [
+    {
+      "date": "2026-11-27",
+      "title": "Mimi",
+      "year": "2021",
+      "rating": 1.5,
+      "rewatch": false,
+      "liked": false,
+      "url": "https://letterboxd.com/kunal_unsolved/film/mimi-2021/",
+      "reviewed": true,
+      "reviewUrl": "https://letterboxd.com/kunal_unsolved/film/mimi-2021/",
+      "filmUid": "film:579146",
+      "lid": "oiCE",
+      "slug": "mimi-2021"
+    },
     {
       "date": "2026-11-26",
       "title": "The Italian Job",
@@ -17881,23 +17916,23 @@
       "filmUid": "film:1263884",
       "lid": "R1Wg",
       "slug": "mirzapur-the-movie"
-    },
-    {
-      "date": "2026-11-02",
-      "title": "Udta Teer",
-      "year": "2026",
-      "rating": 2,
-      "rewatch": false,
-      "liked": false,
-      "url": "https://letterboxd.com/kunal_unsolved/film/udta-teer/",
-      "reviewed": true,
-      "reviewUrl": "https://letterboxd.com/kunal_unsolved/film/udta-teer/",
-      "filmUid": "film:1261836",
-      "lid": "QWBW",
-      "slug": "udta-teer"
     }
   ],
   "diary": [
+    {
+      "date": "2026-11-27",
+      "title": "Mimi",
+      "year": "2021",
+      "rating": 1.5,
+      "rewatch": false,
+      "liked": false,
+      "url": "https://letterboxd.com/kunal_unsolved/film/mimi-2021/",
+      "reviewed": true,
+      "reviewUrl": "https://letterboxd.com/kunal_unsolved/film/mimi-2021/",
+      "filmUid": "film:579146",
+      "lid": "oiCE",
+      "slug": "mimi-2021"
+    },
     {
       "date": "2026-11-26",
       "title": "The Italian Job",
@@ -22447,27 +22482,27 @@
     "2026": {
       "scope": "year",
       "films": null,
-      "entries": 268,
-      "distinctFilms": 258,
+      "entries": 269,
+      "distinctFilms": 259,
       "firstEntry": "2026-01-03",
-      "lastEntry": "2026-11-26",
-      "spanDays": 328,
-      "daysActive": 192,
+      "lastEntry": "2026-11-27",
+      "spanDays": 329,
+      "daysActive": 193,
       "multiFilmDays": 63,
       "rewatches": 22,
       "liked": 0,
-      "rated": 267,
+      "rated": 268,
       "releaseBreakdown": {
         "sameYear": 61,
-        "older": 207,
+        "older": 208,
         "other": 0
       },
       "watchBreakdown": {
-        "firstWatches": 246,
+        "firstWatches": 247,
         "rewatches": 22
       },
       "reviewBreakdown": {
-        "reviewed": 216,
+        "reviewed": 217,
         "notReviewed": 52
       },
       "averageRating": 3.1,
@@ -22492,8 +22527,8 @@
       "perYear": [
         {
           "year": 2026,
-          "films": 268,
-          "days": 192
+          "films": 269,
+          "days": 193
         }
       ],
       "perWeekday": [
@@ -22502,7 +22537,7 @@
         32,
         33,
         46,
-        40,
+        41,
         42
       ],
       "perMonthOfYear": [
@@ -22516,7 +22551,7 @@
         16,
         28,
         24,
-        17,
+        18,
         0
       ],
       "monthSeries": [
@@ -22562,7 +22597,7 @@
         },
         {
           "month": "2026-11",
-          "count": 17
+          "count": 18
         }
       ],
       "weekSeries": [
@@ -22852,7 +22887,7 @@
           "week": 48,
           "start": "2026-11-23",
           "end": "2026-11-29",
-          "count": 5
+          "count": 6
         },
         {
           "week": 49,
@@ -22896,7 +22931,7 @@
         },
         {
           "rating": 1.5,
-          "count": 11
+          "count": 12
         },
         {
           "rating": 2,
@@ -22955,7 +22990,7 @@
         {
           "decade": 2020,
           "label": "2020s",
-          "count": 168,
+          "count": 169,
           "averageRating": 3
         }
       ],
@@ -23148,46 +23183,46 @@
           "slug": "the-family-plan-2"
         },
         {
-          "n": 268,
+          "n": 269,
           "kind": "latest",
-          "date": "2026-11-26",
-          "title": "The Italian Job",
-          "year": "2003",
-          "rating": 4,
-          "url": "https://letterboxd.com/kunal_unsolved/film/the-italian-job-2003/",
+          "date": "2026-11-27",
+          "title": "Mimi",
+          "year": "2021",
+          "rating": 1.5,
+          "url": "https://letterboxd.com/kunal_unsolved/film/mimi-2021/",
           "reviewed": true,
-          "reviewUrl": "https://letterboxd.com/kunal_unsolved/film/the-italian-job-2003/",
-          "filmUid": "film:46947",
-          "lid": "1Y86",
-          "slug": "the-italian-job-2003"
+          "reviewUrl": "https://letterboxd.com/kunal_unsolved/film/mimi-2021/",
+          "filmUid": "film:579146",
+          "lid": "oiCE",
+          "slug": "mimi-2021"
         }
       ]
     }
   },
   "allTime": {
     "scope": "all",
-    "films": 400,
-    "entries": 290,
-    "distinctFilms": 278,
+    "films": 401,
+    "entries": 291,
+    "distinctFilms": 279,
     "firstEntry": "2025-11-07",
-    "lastEntry": "2026-11-26",
-    "spanDays": 385,
-    "daysActive": 212,
+    "lastEntry": "2026-11-27",
+    "spanDays": 386,
+    "daysActive": 213,
     "multiFilmDays": 65,
     "rewatches": 23,
     "liked": 0,
-    "rated": 289,
+    "rated": 290,
     "releaseBreakdown": {
       "sameYear": 65,
-      "older": 225,
+      "older": 226,
       "other": 0
     },
     "watchBreakdown": {
-      "firstWatches": 267,
+      "firstWatches": 268,
       "rewatches": 23
     },
     "reviewBreakdown": {
-      "reviewed": 228,
+      "reviewed": 229,
       "notReviewed": 62
     },
     "averageRating": 3.2,
@@ -23217,8 +23252,8 @@
       },
       {
         "year": 2026,
-        "films": 268,
-        "days": 192
+        "films": 269,
+        "days": 193
       }
     ],
     "perWeekday": [
@@ -23227,7 +23262,7 @@
       32,
       36,
       49,
-      44,
+      45,
       46
     ],
     "perMonthOfYear": [
@@ -23241,7 +23276,7 @@
       16,
       28,
       24,
-      23,
+      24,
       16
     ],
     "monthSeries": [
@@ -23295,7 +23330,7 @@
       },
       {
         "month": "2026-11",
-        "count": 17
+        "count": 18
       }
     ],
     "weekSeries": [],
@@ -23310,7 +23345,7 @@
       },
       {
         "rating": 1.5,
-        "count": 11
+        "count": 12
       },
       {
         "rating": 2,
@@ -23369,7 +23404,7 @@
       {
         "decade": 2020,
         "label": "2020s",
-        "count": 182,
+        "count": 183,
         "averageRating": 3
       }
     ],
@@ -23582,18 +23617,18 @@
         "slug": "thunderbolts"
       },
       {
-        "n": 290,
+        "n": 291,
         "kind": "latest",
-        "date": "2026-11-26",
-        "title": "The Italian Job",
-        "year": "2003",
-        "rating": 4,
-        "url": "https://letterboxd.com/kunal_unsolved/film/the-italian-job-2003/",
+        "date": "2026-11-27",
+        "title": "Mimi",
+        "year": "2021",
+        "rating": 1.5,
+        "url": "https://letterboxd.com/kunal_unsolved/film/mimi-2021/",
         "reviewed": true,
-        "reviewUrl": "https://letterboxd.com/kunal_unsolved/film/the-italian-job-2003/",
-        "filmUid": "film:46947",
-        "lid": "1Y86",
-        "slug": "the-italian-job-2003"
+        "reviewUrl": "https://letterboxd.com/kunal_unsolved/film/mimi-2021/",
+        "filmUid": "film:579146",
+        "lid": "oiCE",
+        "slug": "mimi-2021"
       }
     ]
   }
