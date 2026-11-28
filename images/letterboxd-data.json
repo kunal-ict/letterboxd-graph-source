@@ -6,7 +6,7 @@
     2026,
     2025
   ],
-  "generatedAt": "2026-11-27T07:16:30.497Z",
+  "generatedAt": "2026-11-28T06:49:29.541Z",
   "meta": {
     "weekStart": "sunday",
     "minYear": 2025,
@@ -17674,23 +17674,8 @@
     }
   ],
   "onThisDay": {
-    "date": "2026-11-27",
-    "films": [
-      {
-        "date": "2026-11-27",
-        "title": "Mimi",
-        "year": "2021",
-        "rating": 1.5,
-        "rewatch": false,
-        "liked": false,
-        "url": "https://letterboxd.com/kunal_unsolved/film/mimi-2021/",
-        "reviewed": true,
-        "reviewUrl": "https://letterboxd.com/kunal_unsolved/film/mimi-2021/",
-        "filmUid": "film:579146",
-        "lid": "oiCE",
-        "slug": "mimi-2021"
-      }
-    ]
+    "date": "2026-11-28",
+    "films": []
   },
   "recent": [
     {
